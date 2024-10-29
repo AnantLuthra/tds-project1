@@ -1,0 +1,775 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+tiangolo,Sebastián Ramírez,,"Berlin, Germany",tiangolo@gmail.com,true,"Creator of FastAPI, Typer, SQLModel, Asyncer, etc. 🚀
+From 🇨🇴 in 🇩🇪. 
+Open Source, APIs, and tools for data/ML. 🤖 Python, TypeScript, Docker, etc.",73,26445,3,2012-01-12T22:37:04Z
+schacon,Scott Chacon,GITBUTLERAPP,"Berlin, Germany",schacon@gmail.com,false,,215,13757,26,2008-01-27T17:19:28Z
+rwieruch,Robin Wieruch,,Berlin/Remote,,true,React & Next.js • JavaScript & TypeScript • Freelance Full-Stack Web Developer • Technical Co-Founder • Father of 2 • multiple-time GitHub Star,151,8618,30,2012-10-03T15:11:48Z
+shuding,Shu Ding,VERCEL,Berlin,g@shud.in,false,Be curious. Read widely. Try new things. — aaronsw,149,6756,345,2013-02-23T07:46:30Z
+android10,Fernando Cejas,PEPPR-IO,"Berlin, Germany",android10@fernandocejas.com,true,Quantum Engineering at @Qruise-ai. Former Director at @wireapp. Former @soundcloud Core Engineering. Ex @IBM. Curious learner. Geek. OPEN SOURCE Advocate.,79,6716,85,2012-01-20T21:35:31Z
+marijnh,Marijn Haverbeke,NOT INTERESTED IN RECRUITER MAIL,Berlin,marijn@haverbeke.berlin,false,Independent open-source programmer person,54,6523,0,2009-10-25T14:34:39Z
+mxmnk,Jerzy,,"Berlin, Germany",,false,⭐️ Passionate Full-Stack Developer ⭐️,7,6460,6909,2018-12-20T17:27:13Z
+nikic,Nikita Popov,RED HAT,"Berlin, Germany",github@npopov.com,false,,110,6232,25,2010-03-04T21:22:25Z
+greenrobot,Markus Junginger,OBJECTBOX,Berlin,,true,"CTO and co-founder at objectbox.io, creator of EventBus and greenDAO.",22,5506,4,2010-04-12T14:18:19Z
+sebastianruder,Sebastian Ruder,GOOGLE,"Berlin, Germany",sebastian@ruder.io,true,Research Scientist @Google,32,5466,6,2014-02-26T10:36:21Z
+vakila,Anjana Vakil,,San Francisco | Berlin,contact@anjana.dev,false,Independent Developer Educator & Software Engineer,48,5294,0,2013-09-10T07:10:50Z
+tonsky,Nikita Prokopov,,"Berlin, Germany",niki@tonsky.me,false,,115,5080,42,2010-05-24T05:43:30Z
+felixge,Felix Geisendörfer,DATADOG,"Berlin, Germany",,true,,285,4040,14,2008-06-25T14:24:37Z
+alexeygrigorev,Alexey Grigorev,DATATALKSCLUB,"Berlin, Germany",,true,Running @DataTalksClub and hacking some personal projects,129,3936,0,2011-06-25T13:16:52Z
+hanxiao,Han Xiao,JINA-AI,"Berlin, Germany",han.xiao@jina.ai,false,CEO @jina-ai,106,3859,36,2012-07-25T15:52:49Z
+ines,Ines Montani,FOUNDER @EXPLOSION,"Berlin, Germany",ines@ines.io,false,"Digital native and software developer working on AI, Machine Learning & NLP. Founder @explosion, developing spaCy & Prodigy.
+
+(Portrait: Sarah Andersen)",19,3819,1,2015-08-04T13:15:33Z
+apaszke,Adam Paszke,GOOGLE,"Berlin, Germany",adam.paszke@gmail.com,false,Author of PyTorch. Research Scientist @ Google.,73,3721,11,2013-05-31T20:51:12Z
+lewagon,Le Wagon,,"Paris, London, Berlin & more",contact@lewagon.com,false,Coding School bringing Technical Skills to Creative People,175,3635,0,2013-09-16T13:20:52Z
+codebytere,Shelley Vohr,MICROSOFT,Berlin,shelley.vohr@gmail.com,false,core eng @electron. collaborator @nodejs. organizer @queerjs 🏳️‍🌈. misc @tc39 @openjs-foundation. way too online. often caffeinated. cruciverbalist.,105,3609,10,2012-07-24T19:05:37Z
+prisma,Prisma,,Berlin & Worldwide,hello@prisma.io,false,Prisma makes working with databases easy,152,3562,0,2016-02-13T15:22:35Z
+armancodv,Arman Kolahan,UNITE,"Berlin, Germany",akolahan@gmail.com,true,"Lead Frontend Engineer proficient in TypeScript/React, PhD graduate, writer, with expertise in various programming languages.",51,3227,5565,2014-10-23T07:22:44Z
+peterbourgon,Peter Bourgon,,Berlin,,false,The official GitHub account of Dwayne 'The Rock' Johnson,56,3115,0,2009-08-12T09:58:25Z
+vanhauser-thc,van Hauser,THE HACKER'S CHOICE | MH-SEC | ME | MYSELF,Berlin,vh@thc.org,true,"Security researcher since 1994
+
+https://www.mh-sec.de/
+https://www.thc.org/",44,3069,50,2014-04-24T14:44:32Z
+KittyGiraudel,Kitty Giraudel,COFENSTER,Berlin,,false,"Non-binary trans accessibility & diversity advocate, frontend developer, author. Real life cat.",51,2991,0,2012-06-25T13:22:16Z
+dashersw,Armagan Amcalar,COYOTIV,Berlin,armagan@amcalar.com,false,"Software architect, leader, lecturer, public speaker, mentor, entrepreneur, JS evangelist, electronics engineer, guitarist, singer, radio host.",200,2922,5,2011-03-29T23:27:54Z
+codepo8,Christian Heilmann,,"Berlin, Germany",chris.heilmann@gmail.com,false,"Engineer who worked for Microsoft/Mozilla/Yahoo on browsers, developer tools and anything JavaScript related. AI/ML enthusiast, writer and trainer.",319,2717,6,2008-06-12T17:50:08Z
+nlohmann,Niels Lohmann,,"Berlin, Germany",mail@nlohmann.me,true,You may know me from my JSON library for C++.,42,2654,19,2009-11-29T15:47:30Z
+floooh,Andre Weissflog,,Berlin,floooh@gmail.com,false,,148,2484,38,2012-05-02T15:38:15Z
+cure53,Cure53,FINE PENETRATION TESTS FOR FINE WEBSITES,Berlin,mario@cure53.de,false,And there is fire where we walk.,20,2474,0,2014-02-17T21:39:32Z
+nisrulz,Nishant Srivastava,SCOUT24,"Berlin, Germany",,false,Sr. Android Engineer 👨🏻‍💻  ,72,2442,2,2012-08-04T21:46:01Z
+vietnh1009,Viet Nguyen,SPORTTOTAL.TV,"Berlin, Germany",,false,Senior AI engineer at Sporttotal,39,2426,0,2019-01-31T16:39:52Z
+pepelsbey,Vadim Makeev,WEB-STANDARDS-RU,"Berlin, Germany",hi@pepelsbey.dev,true,"Frontend developer in love with the Web, browsers, bicycles, and podcasting. MDN technical writer, Google Developer Expert.",46,2403,0,2009-07-15T16:06:21Z
+nschloe,Nico Schlömer,MONDAY TECH,"Berlin, Germany",nico.schloemer@gmail.com,true,"Mathematics, numerical analysis, scientific computing, Python.
+
+Always interested in new problems.",94,2368,19,2010-01-13T18:43:03Z
+spacejam,Tyler Neely,PINECONE,Berlin,,true,reliable stateful systems at scale,190,2341,148,2012-03-06T03:52:39Z
+ligi,ligi,ETHEREUM,"Berlin, Earth, Milkiway",ligi@ligi.de,false,,363,2254,794,2009-08-03T22:52:04Z
+justadudewhohacks,Vincent Mühler,,"Berlin, Germany",muehler.v@gmail.com,false,Just hacking stuff.,41,2226,23,2017-08-18T07:47:03Z
+anaisbetts,Ani Betts,ANTHROPIC,Berlin,anais@anaisbetts.org,false,Margot Tenenbaum as software developer.,325,2133,1,2008-02-28T02:26:12Z
+typst,Typst,,Berlin,hello@typst.app,false,Compose papers faster: Focus on your text and let Typst take care of layout and formatting.,25,2115,0,2020-06-29T15:08:38Z
+robb,Robb Böhnke,MOVINGPARTS-IO,Berlin,,true,"I put the UI in Ennui • currently SwiftUI @apple, formerly @movingparts-io,  @Google Research & @Apple UIKit • today your love, tomorrow the world",57,2094,89,2010-02-28T11:23:17Z
+schickling,Johannes Schickling,,Berlin,,false,"🚀 Founder of @prisma
+💾 Application developer 
+🙌 Cutting edge technology enthusiast",72,2053,68,2012-03-23T08:57:37Z
+rkh,Konstantin Haase,GOOD BEANS,Berlin,github@rkh.im,false,,201,2013,547,2008-10-22T18:56:03Z
+withoutboats,srrrse,,Berlin,saoirse@without.boats,true,"In civilizations without boats, dreams dry up, espionage takes the place of adventure, and police take the place of pirates.",71,1929,0,2014-10-08T00:46:37Z
+honnibal,Matthew Honnibal,FOUNDER @EXPLOSION,Berlin,honnibal+gh@gmail.com,false,Computational linguist from Sydney and Berlin. Author of the spaCy NLP library.,58,1895,6,2014-07-03T15:12:05Z
+Roaa94,Roaa,WIDGETBOOK,"Berlin, Germany",roaa94khaddam@gmail.com,true,"Software Engineer @widgetbook 
+Google Developer Expert For Flutter 💙 & Dart",30,1882,29,2019-05-07T00:15:12Z
+janl,Jan Lehnardt,NEIGHBOURHOODIE SOFTWARE,"Berlin, Germany",jan@apache.org,false,Makes @couchdb & #offlinefirst. Made @jsconfeu @greenkeeperio @hoodiehq. CEO at @neighbourh00die. Dissatisfied with the status-quo.,203,1881,9,2008-05-23T16:58:22Z
+frozeman,Fabian Vogelsteller,LUKSO,"Berlin, Germany",fabian@lukso.network,false,"LUKSO Founder,
+Ethereum developer, creator of the Mist browser, web3.js and ERC20. Author of a Meteor.js book and creator of the feindura - flat file CMS",117,1862,8,2010-03-29T15:09:24Z
+z3tt,Cédric Scherer,INDEPENDENT CONTRACTOR,Berlin,,true,"Consultant, developer, and instructor for data workflows, analysis, visualization & communication.",48,1804,148,2014-05-08T12:55:38Z
+vas3k,Vasily Zubarev,ANYPROTO,"Berlin, Germany",me@vas3k.ru,true,¯\_(ツ)_/¯,28,1730,17,2010-01-04T20:30:30Z
+leo,Leo Lamprecht,RONIN-CO,Berlin,leo@ronin.co,false,,57,1706,69,2013-12-12T14:49:29Z
+mttkay,Matthias Käppler,GITLAB,"Berlin, Germany",,false,,50,1704,38,2009-07-08T08:48:36Z
+tomaka,Pierre Krieger,FREELANCE,"Berlin, Germany",pierre.krieger1708@gmail.com,false,,245,1695,2,2012-02-06T10:55:41Z
+johnkil,Evgenii Shishkin,EX. AVIASALES,"Berlin, Germany",shishkin.e3@gmail.com,true,Senior Android Developer,40,1654,67,2011-07-19T18:50:39Z
+mxschmitt,Max Schmitt,MICROSOFT,"Germany, Berlin",max@schmitt.mx,false,"Open Source enthusiast, security researcher and full stack web developer.",207,1645,28,2016-03-21T13:44:27Z
+smakosh,Ismail Ghallou ,,"Berlin, Germany",ismai23l@hotmail.com,true,Senior frontend developer,132,1571,168,2016-06-22T05:39:44Z
+poettering,Lennart Poettering,,"Berlin, Germany",lennart@poettering.net,false,,17,1550,1,2012-08-10T16:01:29Z
+hynek,Hynek Schlawack,VARIOMEDIA AG,Berlin,hs@ox.cx,false,,32,1549,6,2008-12-18T12:10:53Z
+TejasQ,Tejas Kumar,,"Berlin, DE",tejas@tejas.qa,true,I write code and love life.,136,1518,296,2014-11-25T13:12:53Z
+AmruthPillai,Amruth Pillai,ELARADIGITAL,"Berlin, Germany",im.amruth@gmail.com,false,"Juggling work, life and OSS 🤹",179,1498,4,2011-10-18T02:10:26Z
+chriseth,,,Berlin,,false,,87,1455,0,2014-10-08T08:53:36Z
+roji,Shay Rojansky,MICROSOFT,"Berlin, Germany",roji@roji.org,false,"Principal software engineer working on .NET data access and perf, member of the Entity Framework team at Microsoft. Lead dev of Npgsql, the PostgreSQL provider.",81,1394,6,2012-06-18T13:23:09Z
+justinmk,Justin M. Keyes,,Berlin,,true,"""People are afraid to merge."" 
+- Less Than Zero",34,1371,11,2012-01-20T17:37:03Z
+brianamarie,Briana Swift,,Berlin,,true,,139,1360,56,2014-11-22T23:24:43Z
+datitran,Dat Tran,BEAMS SAFETY AI,Berlin,,false,"VP of AI/ML at Beams Safety AI 🤖 | Advisor. Ex-CTO/Co-Founder @Priceloop. Ex-Head of AI @AxelSpringer, Ex-Pivotal.",61,1345,72,2013-03-14T17:02:54Z
+arash-hacker,,,"Berlin,Berlin, Germany",Arshiamidos@gmail.com,true,Principal Software Engineer | Hacker,76,1343,64,2014-01-20T15:19:23Z
+alireza0,Alireza Ahmadi,,"Berlin, Germany",alireza7@gmail.com,true,,11,1341,5,2015-05-23T12:47:02Z
+maciejwalkowiak,Maciej Walkowiak,,"Berlin, Germany",walkowiak.maciej@yahoo.com,false,"Freelance Architect & Developer
+🍃Spring projects Contributor
+Java ∙ Spring ∙ AWS ∙",146,1279,60,2012-01-20T12:33:25Z
+eps1lon,"Sebastian ""Sebbie"" Silbermann",,"Berlin, Germany",silbermann.sebastian@gmail.com,false,I maintain stuff.,337,1265,39,2015-05-07T08:08:10Z
+MohamedMesto,Mohamed Mesto,,Berlin,,false,Software Engineer | Front-End Developer.,103,1257,2950,2018-10-21T13:46:26Z
+solegalli,Soledad Galli,TRAIN IN DATA,"Berlin, Germany",,false,"👨‍💻 Data scientist, best-selling machine learning instructor, and book author. 📚 Developer of Feature-engine. 🚀",21,1243,9,2015-04-05T10:25:19Z
+mugli,Mehdi Hasan Khan,CONTENTFUL,"Berlin, Germany",mhasan@omicronlab.com,true,"Infrastructure Engineer 
+@contentful. Node.js and Go dev.",37,1214,586,2012-08-29T08:14:13Z
+pedromassango,Pedro Massango,MONTA-APP,Berlin,,false,Software Engineer & Flutter GDE,207,1211,127,2017-11-01T18:50:33Z
+Byron,Sebastian Thiel,,Berlin,sebastian.thiel@icloud.com,false,,198,1210,100,2009-03-15T13:15:06Z
+aFarkas,Alexander Farkas,,Berlin,alex@boffinhouse.com,false,,65,1198,32,2010-01-23T12:19:27Z
+mr-mig,Alexey Migutsky,MICROSOFT / GITHUB,"Berlin, Germany",alexey.migutsky@gmail.com,false,Me 🔨 codez,47,1181,18,2011-09-19T15:56:47Z
+gka,Gregor Aisch,ZEITONLINE,Berlin,,false,"Senior visual data journalist @ZeitOnline, Co-founder @Datawrapper, proud @nytgraphics alumni. most of my old repos live at @vis4 now",38,1171,78,2011-02-14T15:48:07Z
+cytopia,cytopia,,"Berlin, Germany",,false,DevOps Engineer,114,1167,37,2015-05-20T18:47:38Z
+explosion,Explosion,,"Berlin, Germany",contact@explosion.ai,false,Software company specializing in developer tools and tailored solutions for AI and Natural Language Processing,76,1114,0,2016-06-18T09:18:01Z
+omz,Ole Zorn,OMZ:SOFTWARE,"Berlin, Germany",,false,,13,1099,8,2009-05-08T16:14:34Z
+sujinleeme,Sujin Lee,ADJUST,"Berlin, Germany",,true,🧑‍🎨 Painting at @adjust ,54,1086,407,2013-11-22T15:36:19Z
+tgalal,Tarek,,"Berlin, Germany",tare2.galal@gmail.com,true,,40,1081,87,2011-07-05T10:29:14Z
+stefanjudis,Stefan Judis,,Berlin,,false,frontend dev | doing open source stuff | collecting stuff at perf-tooling.today & tiny-helpers.dev,200,1076,242,2011-08-05T21:14:11Z
+cs-MohamedAyman,Ayman M.,,"Berlin, Berlin, Germany",,true,Machine Learning Mentor and Advisor | Research and Development Software Engineer,13,1075,0,2020-01-22T13:06:45Z
+dmonad, Kevin Jahns,INDEPENDENT OSS DEVELOPER,"Berlin, Germany",kevin.jahns@protonmail.com,true,"Working to make the web more collaborative @yjs @y-crdt 
+
+
+
+",42,1066,32,2013-09-26T23:26:43Z
+ojack,Olivia Jack,, Berlin / Bogotá,,false,,113,1056,79,2013-07-01T17:58:48Z
+beorn7,Björn Rabenstein,GRAFANA,Berlin,beorn@grafana.com,false,"@prometheus developer working at @grafana. Alumnus of @soundcloud and @google.
+
+Hope is not a strategy – but it springs eternal.",33,1053,410,2013-10-04T08:42:18Z
+camunda,Camunda,,Berlin,info@camunda.com,false,,153,1049,0,2012-09-28T08:18:19Z
+olilarkin,Oli Larkin,"ABLETON, OLI LARKIN PLUG-INS",Berlin,,true,"Audio Plug-ins, C++, @iPlug2, @webaudiomodules @SpatialAudioKit",109,1036,400,2011-03-07T14:24:38Z
+deliveryhero,Delivery Hero SE,,Berlin,,false,,86,1028,0,2014-04-08T13:09:24Z
+berndruecker,Bernd Ruecker,CAMUNDA,Berlin,bernd.ruecker@camunda.com,false,"Process automation enthusiast. Co-founder and chief technologist of http://camunda.com . Blog, articles and talks at https://berndruecker.io",81,1023,1,2011-11-24T08:32:44Z
+xct,xct,,Berlin | Tokyo,xct@vulndev.io,true,Hobby ⚑ Collector,37,1021,199,2014-10-18T05:58:57Z
+rxrbln,René Rebe,EXACTCODE GMBH,Berlin,rene@rebe.name,false,"20+ years OpenSource: T2 Linux, ExactImage and likely contributed to most major projects out there.",19,1019,6,2016-04-17T17:27:20Z
+davidchambers,David Chambers,,Berlin,dc@davidchambers.me,false,"Functional programming enthusiast. Creator of Sanctuary, our refuge from unsafe JavaScript.",106,1007,76,2010-02-25T03:13:55Z
+adamwiggins,Adam Wiggins,MUSE,Berlin,a@adamwiggins.com,false,Digital toolmaker,99,1000,16,2008-02-10T19:58:31Z
+naderman,Nils Adermann,PACKAGIST,"Berlin, Germany",,false,"Co-Founder of @packagist / https://packagist.com and Co-Creator of @composer - he/him
+
+",91,999,43,2009-11-18T13:24:59Z
+fjl,Felix Lange,ETHEREUM,"Berlin, Germany",fjl@ethereum.org,false,Chief Stacktrace Designer,112,993,33,2008-04-12T10:37:15Z
+vitormalencar,Vitor Alencar,TAXFIX,Berlin Germany ,vitor.maia.alencar@gmail.com,true,"⚡️ Web developer & speaker
+🔥 focused on new and scalable technologies
+🦄 who loves sharing knowledge",47,984,236,2014-05-30T00:00:07Z
+moklick,Moritz Klack,XYFLOW,Berlin,info@moritzklack.com,false,Working on React Flow and Svelte Flow @xyflow ,139,978,10,2012-11-21T22:06:05Z
+rpolonsky,Roman V Polonsky,,Berlin,,true,Senior Front End Software Engineer,5,957,17,2013-01-21T07:07:26Z
+kashif,Kashif Rasul,,"Berlin, Germany",kashif.rasul@gmail.com,false,"Principal Research Scientist working on Deep Learning, Time Series Forecasting, Reinforcement Learning and HPC.",220,942,122,2008-04-21T20:18:07Z
+LilithWittmann,Lilith Wittmann,,"Berlin, Germany",,true,"freelance developer & consultant
+",46,918,54,2011-07-02T23:39:24Z
+jamesmunns,James Munns,,"Berlin, DE",james@onevariable.com,false,"Bringing Rust to new places, big and small. Available for consulting @OneVariable!
+
+Resources Team @ Rust Embedded Working Group",314,915,21,2012-08-05T10:39:01Z
+pudo,Friedrich Lindenberg,OPENSANCTIONS,Berlin,friedrich.lindenberg@gmail.com,true,"Data and software engineer, investigative support. ",49,915,205,2008-12-19T17:04:00Z
+javierbyte,Javier Bórquez,VERCEL,"Berlin, Germany",hi@javier.xyz,false,,53,910,257,2012-07-20T04:51:56Z
+meh,meh.,,Berlin,meh@schizofreni.co,true,"Never compromise, not even in the face of Armageddon.",370,892,18,2008-12-13T11:44:43Z
+rednafi,Redowan Delowar,WOLT,Berlin,redowan.nafi@gmail.com,false,"Roving amateur with a flair for words and wires | SWE @woltapp | 🇩🇪 🇺🇸 🇧🇩
+",68,891,44,2017-07-09T19:48:26Z
+visenger,Dr. Larysa Visengeriyeva,,"Berlin, Germany ",,false,"
+    I am the queen of ml-ops.org 
+Working at the intersection of software engineering and machine learning. PhD in Augmented Data Quality.
+",79,886,3,2012-07-20T22:37:19Z
+brancz,Frederic Branczyk,POLARSIGNALS,Berlin,fbranczyk@gmail.com,false,,163,879,6,2013-05-28T07:46:00Z
+zaraco,Zahra Teymouri,VECTRONIC AEROSPACE,"Berlin, Germany",zahrateymouri90@gmail.com,false,Software Developer,30,878,909,2020-03-08T12:07:10Z
+spacekookie,Katharina Fey,,Berlin,kookie@spacekookie.de,true,Mediocre programmer extraordinaire. Compilers are your friend 🔹 she/them  ,163,871,43,2014-05-22T14:00:50Z
+ptaoussanis,Peter Taoussanis,TAOENSSO,"Berlin, Chiang Mai, Johannesburg",peter@taoensso.com,false,Clojure/Script open source llama,52,866,37,2009-11-30T18:41:46Z
+deepset-ai,deepset,,"Berlin, Germany",hello@deepset.ai,false,Building enterprise search systems powered by latest NLP & open-source.,61,863,0,2019-06-14T14:23:33Z
+traviscibot,Travis CI,TRAVIS CI,"Berlin, Germany",,false,Deployment Bot (from Travis CI),0,863,0,2017-10-26T07:53:22Z
+mlent,Monica Lent,AFFILIMATEIO,"Berlin, Germany",,false,,42,845,30,2012-05-23T22:20:19Z
+emad-elsaid,Emad Elsaid,HELLOFRESH,"Berlin, Germany",,true,A software engineer,91,844,30,2009-02-13T23:45:51Z
+paolorotolo,Paolo Rotolo,BLINKIST,Berlin,,false,"Android Developer @blinkist.
+
+Co-lead GDG Bari. Open Source, Kotlin and Community fan! Maintainer of @AppIntro",91,839,118,2013-10-06T16:01:26Z
+panique,Chris,,Berlin (Germany),,true,"5.000+ ★ on GitHub. PHP dev, 13+ years of experience. Hire me ;)",26,835,33,2009-11-21T12:15:55Z
+kof,Oleg Isonen,WEBSTUDIO-IS,"Germany, Berlin",oleg008@gmail.com,false,,113,815,28,2009-02-08T18:49:11Z
+falkTX,Filipe Coelho,,"Berlin, Germany",,true,"I'm a self-taught software developer, with personal interest in C++ and Python.
+Easily motivated by a good challenge. Open-Source enthusiast.",119,814,3,2012-01-16T20:28:18Z
+pepicrft,Pedro Piñera Buendía,TUIST,Berlin,,true,Builder and software-crafter,37,810,857,2011-03-11T07:58:23Z
+hramezani,Hasan Ramezani,PYDANTIC,Berlin,hasan.r67@gmail.com,false,"Python Backend Developer. Member of Django Triage&Review team. Contributor of @django , @urllib3 , @pydantic , ...
+Maintainer of some @jazzband packages",92,798,51,2012-12-25T18:04:47Z
+cebe,Carsten Brandt,"YIISOFT, @CEBE-CC","Berlin / Alfeld, Germany",mail@cebe.cc,true,PGP: 1DEEEED0,258,788,368,2010-01-26T00:15:13Z
+PurpleBooth,Billie Thompson,ARMAKUNI,Berlin,,false,I am quite tall and have curly hair.,186,782,54,2009-09-30T16:27:21Z
+bergie,Henri Bergius,,"Berlin, Germany",henri.bergius@iki.fi,true,"Sailor, developer, occasional adventurer",129,776,6,2008-03-18T07:23:03Z
+rahmonov,Jakhongir,AMAZON WEB SERVICES,"Berlin, Germany",jrahmonov2@gmail.com,false,Software Engineer,40,775,11,2014-10-05T15:48:33Z
+bkchr,Bastian Köcher,PARITYTECH,Berlin,,false,"Ser Developer @paritytech using @rust-lang. 
+
+13fvj4bNfrTo8oW6U8525soRp6vhjAFLum6XBdtqq9yP22E7",132,775,10,2013-10-18T12:11:15Z
+derhuerst,Jannis R,FREELANCER,Berlin,mail@jannisr.de,false,"By writing open-source software, I try to make urban infrastructure more accessible & convenient.",582,767,94,2013-07-23T11:37:44Z
+svenfuchs,Sven Fuchs,FORMERLY TRAVIS CI,Germany/Berlin,me@svenfuchs.com,false,,145,766,78,2008-03-04T20:38:09Z
+nikolasburk,Nikolas,PRISMA,Berlin,nikolas.burk@gmail.com,true,Learning and teaching at @prisma,202,765,0,2013-04-04T11:30:48Z
+areyou1or0,Busra Demir,NEONDATABASE,"Berlin, Germany",,true,Hacker. ,6,763,9,2017-03-13T14:04:10Z
+Phantas0s,Matthieu Cneude,,Berlin,,false,"Coding for 20 years.
+Love the Linux shell and CLIs.",97,758,68,2012-12-30T21:12:00Z
+tasomaniac,Said Tahsin Dane,DELIVERYHERO,Berlin,tasomaniac@gmail.com,false,"Engineering Manager @deliveryhero
+",111,758,179,2011-05-02T12:06:25Z
+ndrplz,Andrea Palazzi,NOMITRI - PERCEPTION AI FOR MOBILE,Berlin,ndrplz@gmail.com,false,Head of AI @ Nomitri  - Computer Vision PhD,23,755,29,2013-01-04T18:13:26Z
+zalando,Zalando SE,,"Berlin, Dublin, Helsinki, Dortmund, Erfurt, Mönchengladbach, Hamburg",opensource@zalando.de,false,"The org page for Zalando, Europe's leading online fashion platform. Visit opensource.zalando.com for project stats.",49,752,0,2012-03-22T14:47:53Z
+voronianski,Dmytro Voronianski,SUMUP,"Berlin, Germany",,true,"*.js,*.lua,*.swift",189,751,45,2011-08-11T14:20:36Z
+maateen,Maksudur Rahman Maateen,QUANDOO,"Berlin, Germany",maateen@outlook.com,true,DevOps Engineer | SRE,38,740,0,2015-03-31T18:34:38Z
+Expensify,"Expensify, Inc",,"San Francisco, Ironwood, Denver, London, Berlin, Melbourne, Portland",,false,,57,736,0,2010-11-11T03:59:16Z
+lilic,Lili Cosic,,"Berlin, Germany",,false,☁️ ,92,735,12,2013-12-20T17:52:46Z
+fzerorubigd,Forud,,Berlin,fzero@rubi.gd,false,"Full time dad, part time developer. ",153,730,37,2011-07-24T06:07:47Z
+endocrimes,Danielle,FERMYON TECHNOLOGIES,"Berlin, Germany",dani@builds.terrible.systems,false,building tools & communities.,289,726,6,2012-01-14T21:35:58Z
+plutov,Alex Pliutau,BINARLY-IO,"Berlin, Germany",a.pliutau@gmail.com,true,"SWE | Passionate about Backend, Go, Cloud, DevOps, Kubernetes | Writing https://packagemain.tech Newsletter |  🇩🇪",69,717,307,2011-10-13T08:03:24Z
+kjam,Katharine,KJAMISTAN,"Berlin, Germany",katharine@kjamistan.com,false,,41,714,0,2010-07-15T23:59:17Z
+neelance,Richard Musiol,,"Berlin, Germany",mail@richard-musiol.de,false,,61,711,3,2008-07-06T15:11:15Z
+skade,Florian Gilcher,FERROUS SYSTEMS,Berlin,florian.gilcher@ferrous-systems.com,false,"Managing Director @ferrous-systems. Heavily invested @rust-lang functional safety.
+
+Organiser @eurucamp/@jrubyconf/@rustfest/@oxidizeconf.",420,709,13,2009-01-18T23:30:12Z
+codergogoi,Jay Gogoi,,"Berlin, Germany",codergogoi@gmail.com,true,Lead Engineer  [ Backend | Architect | System Design | Go | Rust | NodeJs | NestJS | Typescript | ES6 | GraphQL | Microservice | AWS] Co-Founder of @GlasHomes,63,708,6,2014-03-24T14:30:29Z
+RobertTLange,Robert Tjarko Lange,,"Tokyo, Berlin, Barcelona, London",robertlange0@gmail.com,false,"
+    
+    
+Meta-Discovery @SakanaAI 🕵️
+
+
+",36,692,10,2016-07-09T20:30:24Z
+anapaulagomes,Ana Paula Gomes,ROBERT-KOCH-INSTITUT,Berlin,,false,"PhD student at the @robert-koch-institut (Centre for Artificial Intelligence in Public Health Research), master of none. Latina.",63,691,310,2012-06-27T19:26:47Z
+infusion,Robert Eisele,RAWIFY,Berlin,,true,"Mathematics, Machine Learning, Databases, Robotics, Hardware Hacking",35,691,3,2010-02-05T14:30:20Z
+burakcan,Burak Can,HIVE-ENGINEERING,Berlin,,true,,62,690,125,2012-12-25T12:42:39Z
+msaaddev,Saad Irfan,FOUNDING ENGINEER @LANGBASEINC,"Berlin, Germany",mrsaadirfan@gmail.com,true,Turning ideas into code...,211,690,90,2018-10-21T14:24:25Z
+sschmid,Simon Schmid,DESPERATEDEVS,Berlin,,true,👨‍💻,61,689,1,2010-03-30T21:41:51Z
+generall,Andrey Vasnetsov,QDRANT,Berlin,andrey@vasnetsov.com,true,"CTO, creator of Qdrant. Interested in Vector Search, Metric Learning, Self-Supervised and One-Shot learning.",100,683,199,2012-07-07T12:04:52Z
+SpaceK33z,Kees Kluskens,,"Berlin, Germany",,false,Software Engineer and all-around a person.,87,680,7,2010-12-22T18:09:26Z
+rootzoll,/rootzoll,,Berlin,,false,freelancer & projects,41,678,20,2012-10-02T14:05:26Z
+debris,Marek Kotewicz,PARITYTECH,"Berlin, DE",,false,rust,99,678,164,2012-10-21T16:33:44Z
+m0nad,Victor Ramos Mello,,Berlin,,false,,23,657,168,2011-05-06T18:40:11Z
+ozgurozturknet,Özgür ÖZTÜRK,MICROSOFT,Berlin,ozgur@ozgurozturk.net,false,1l0l1l1l0l0l1l1l0l0l0l1l1l0l1l1l1,32,654,3,2016-02-01T10:56:35Z
+cjwirth,Caesar Wirth,DUOLINGO,"Berlin, Germany",,false,,37,653,0,2012-03-27T12:33:59Z
+janpio,Jan Piotrowski,,"Berlin, Germany",,false,,471,653,4,2010-01-16T18:13:07Z
+philippjfr,Philipp Rudiger,ANACONDA INC.,"Berlin, Germany",prudiger@anaconda.com,true,"Principal Software Engineer @ Anaconda Inc., creator of Panel, hvPlot, HoloViews and GeoViews and maintainer of Bokeh and Datashader.",96,652,47,2012-03-18T21:34:51Z
+XAMPPRocky,,,Berlin,,true,➣ Livia Prima,137,650,136,2013-05-18T11:34:54Z
+increpare,increpare,,"Berlin, Germany",analytic@gmail.com,false,,151,649,33,2010-11-03T11:15:32Z
+dereuromark,Mark Scherer,AVAILABLE AS (CAKE)PHP EXPERT,Berlin,,false,"Senior Software Developer, Tooling Architect & Master of Automation - PHP Expert Freelancer",92,647,21,2008-12-11T16:33:44Z
+iuridepaula,Iuri de Paula,MIRO,Berlin,,false,You are alive. Act like it.,2,640,5,2018-04-18T17:58:43Z
+Tienisto,Tien Do Nam,,"Berlin, Germany",,false,I like Flutter,45,636,9,2018-04-14T15:20:37Z
+LefterisJP,Lefteris Karapetsas,,"Berlin, Germany",,true,"Developer from Berlin. University of Tokyo graduate. Author of rotki, refulang, emacs-solidity.
+
+Ethereum developer. 
+
+Emacs zealot",151,633,14,2012-04-19T08:07:48Z
+Conchylicultor,Conchylicultor,GOOGLE,Berlin,etiennefg.pot@gmail.com,false,Research Engineer,43,632,16,2014-10-07T06:51:59Z
+localheinz,Andreas Möller,ERGEBNIS,"Berlin, Germany",am@localheinz.com,true,"I own a computer.
+
+",452,618,198,2011-02-07T20:53:35Z
+matthiasn,Matthias Nehlsen,,"Hamburg & Berlin, Germany",matthias.nehlsen@gmail.com,true,I create technical debt for a living.,122,609,221,2012-01-30T08:33:11Z
+q9f,Afri,,Berlin,,true,,74,609,1,2019-12-14T14:19:43Z
+chrieke,Christoph Rieke,,"Berlin, Germany",christoph.k.rieke@gmail.com,false,Geospatial Data Scientist,38,606,236,2015-06-10T17:10:58Z
+NikolaiT,Nikolai Tschacher,GERMANY/BERLIN,Berlin,tschacher.nikolai@gmail.com,true,I am a computer scientist (M. Sc.) and IT security specialist. Mostly working with JavaScript (Node.js) and Python. Creator and developer of ipapi.is,51,604,18,2013-05-26T15:01:11Z
+thatisuday,Uday Hiwarale,SAP,"Berlin, Germany",,false,Senior Software Engineer @SAP ,60,603,2,2013-10-17T17:36:52Z
+rumyantseva,Elena Grahovac,FERRETDB,"Berlin, Germany",,true,,78,602,29,2012-04-27T09:09:02Z
+tcurdt,Torsten Curdt,,Berlin,,true,,60,602,64,2008-06-14T07:00:08Z
+salihgueler,Muhammed Salih Guler,AWS AMPLIFY,Berlin,muhammedsalihguler@gmail.com,false,advocate of devs,62,596,37,2016-12-07T11:35:10Z
+iotaledger,IOTA,,"Berlin, Germany",info@iota.org,false,IOTA is a distributed ledger based on the Tangle. It allows for feeless value transfers and data integrity proofs.,245,596,0,2016-06-24T10:55:18Z
+splitbrain,Andreas Gohr,COSMOCODE GMBH,"Berlin, Germany",,true,,166,593,68,2009-05-19T18:52:35Z
+mtdvio,MTDV,,Berlin,hello@mtdv.io,false,We help Software Engineers learn and grow!,5,593,0,2017-10-24T07:58:34Z
+hukl,John-Paul Bader,,Berlin,,false,,94,591,14,2008-09-18T10:56:01Z
+juliusv,Julius Volz,PROMLABS,"Berlin, Germany",,false,,80,591,4,2010-12-27T16:34:48Z
+wolfv,Wolf Vollprecht,PREFIX.DEV GMBH,Berlin,w.vollprecht@gmail.com,false,"prefix.dev |
+Package Management, Robotics and Jupyter",493,584,87,2011-06-29T21:40:00Z
+kakkoyun,Kemal Akkoyun,,Berlin,,true,"Observability. Reliability. Performance. Linux, eBPF and profiling.
+Helping to maintain @prometheus, @thanos-io, @prometheus-operator and @parca-dev ",169,584,552,2010-12-25T19:48:53Z
+Jolg42,Joël Galeran,PRISMA,"Berlin, localhost",,true,Senior Developer • TypeError: undefined is not a function,157,582,1037,2012-01-13T20:34:58Z
+manashmandal,Manash Kumar Mandal,CREDITORNOT,"Berlin, Germany",manashmndl@gmail.com,true,,207,582,737,2014-06-28T12:46:43Z
+domschiener,Dominik Schiener,IOTALEDGER,"Berlin, Germany",,false,Co-founder of @iotaledger,33,580,0,2014-11-16T16:51:55Z
+ebrugulec,Ebru Gulec,,"Berlin, Germany",,true,"Software Engineer, Bibliophile",32,579,289,2014-12-21T18:53:17Z
+seyfer,Oleg Abrazhaev,HTTPS://SEYFER.GITHUB.IO/YOUR-LIFE/,"Berlin, Germany",seyferseed@gmail.com,true,"JS, TS, PHP, Scala, Java.
+If you follow me - I will follow you back.
+| GitLab: https://gitlab.com/seyfer",109,572,987,2012-02-29T02:58:19Z
+kaisermann,Christian Kaisermann,GETCIRCUIT,Berlin,christian@kaisermann.me,false,building things to build other things.,84,572,99,2015-06-01T19:03:09Z
+rohan20,Rohan Taneja,,"Berlin, Germany",,true,"Flutter Evangelist
+",124,567,1,2014-07-22T07:44:06Z
+wix,Wix.com,,"Tel Aviv, Be'er Sheva, Haifa, Vilnius, Kyiv, Dnipro, New York, San Francisco, Miami, Los Angeles, Phoenix, Denver, Berlin, Sao Paulo, Vancouver, Dublin, Tokyo",,false,Open-sourcing useful pieces of code,19,562,0,2011-03-23T16:40:49Z
+cketti,cketti,THUNDERBIRD,"Berlin, Germany",hello@cketti.de,false,Open source developer,105,558,134,2010-03-08T01:32:20Z
+tasdikrahman,Tasdik Rahman,NEWRELIC,"Berlin, Germany",,true,"Engineering @newrelic | @kubernetes-sigs Cluster API 1.9 Release Team | Formerly @deliveryhero, @gojek, @razorpay, past contributor to @oVirt",130,556,796,2013-06-11T17:41:01Z
+berstend,berstend̡̲̫̹̠̖͚͓̔̄̓̐̄͛̀͘,,"Berlin, Germany",github@berstend.com,false,"@berstend
+[ˈbɛʁstn̩t]",84,549,12,2012-01-22T19:47:12Z
+ThisIsMissEm,Emelia Smith,UNOBVIOUS-TECHNOLOGY / @BRANDEDCODE,"Berlin, Germany",,false,"
+Tech Princess 👸🏻 Founder of @unobvious-technology 💪🏻 dweb philosopher 🧐 Tooling Witch 🛠 Contributor to the Fediverse, Former Node.js Contributor",178,548,118,2008-10-24T12:13:31Z
+johannesjo,Johannes Millan,FRONTEND DEVELOPER,Berlin,,true,I love programming!,56,545,140,2012-02-21T06:03:54Z
+greyblake,Serhii Potapov,IMPERO-COM,Berlin,,true,La suerte se burla de mi otra vez... En forma de  m̶u̶j̶e̶r̶    JS...,116,545,119,2009-08-09T17:57:29Z
+christianparpart,Christian Parpart,DR. JUNG & PARTNER SOFTWARE & CONSULTING AG,Germany/Berlin,christian@parpart.family,false,breathing C++ & author of Contour Terminal,121,544,35,2009-02-22T08:09:37Z
+davidsbatista,David S. Batista,DEEPSET,"Berlin, Germany",dsbatista@gmail.com,true,Software Developer | NLP Engineer | Machine Learning @deepset-ai ,39,544,115,2014-06-19T22:03:31Z
+sheremet-va,Vladimir,,"Germany, Berlin",,false,,48,543,57,2015-12-06T07:43:18Z
+ahmedash95,Ahmed Ammar,,"Berlin, Germany",,false,Software Engineer,293,543,225,2014-07-26T00:37:59Z
+kostasx,Kostas Minaidis,INTECHGRATION.IO,"Athens, Greece / Berlin, Germany",minaidisk@gmail.com,false,"Software Developer & Tech Instructor
+(JavaScript, Node.JS, PHP, Python, WordPress)
+https://twitter.com/kostas_mns",348,541,1317,2012-04-12T21:44:20Z
+lislis,lislis,,Berlin,,false,,194,541,0,2011-08-26T12:36:13Z
+AnirudhDagar,Anirudh Dagar,AWS @AUTOGLUON @D2L-AI,Berlin,anirudhdagar6@gmail.com,false,Open Source | Machine Learning,69,537,277,2016-11-21T00:11:30Z
+arximboldi,Juanpe Bolívar,CTO @BRONZE-DEV,"Berlin, Germany",juanpe@sinusoid.es,true,"Postmodern C++, value-oriented design, interactive software, open-source strategy, functional programming, music tech.",73,535,103,2013-05-24T16:37:06Z
+mhagger,Michael Haggerty,GITHUB,"Berlin, Germany",mhagger@alum.mit.edu,false,,16,531,4,2009-08-26T13:01:43Z
+boopathi,Boopathi Rajaa,ZALANDO,Berlin,,true,web stuff,174,529,268,2010-06-02T14:50:11Z
+DonnchaC,Donncha Ó Cearbhaill,AMNESTYTECH,Berlin,donncha.ocearbhaill@amnesty.org,true,Head of Security Lab at @AmnestyTech | Hunting spyware and unlawful surveillance targeting civil society,77,526,278,2012-12-19T14:04:14Z
+gouthamve,Goutham Veeramachaneni,GRAFANA LABS,"Berlin, Germany",,false,@prometheus Maintainer. PM @grafana ,181,523,27,2014-04-20T16:12:56Z
+jackrusher,Jack Rusher,APPLIED SCIENCE STUDIO,Berlin,jack@rusher.com,false,"Former kernel hacker and Bell Labs/AT&T Researcher, currently making art and technology in Berlin.",21,521,21,2010-03-10T22:49:07Z
+matthiasplappert,Matthias Plappert,,"Berlin, Germany",,false,"I am a research scientist with an interest in machine learning, robotics, reinforcement learning, LLMs, and code synthesis.",51,520,3,2009-09-07T19:15:27Z
+nuhkoca,Nuh Koca,TRADEREPUBLIC,"Berlin, Germany",nuhkocaa@gmail.com,true,@udacity Certified @google Android Developer | Passionate Android Engineer | Open Source Enthusiast | Android Community Lover,131,517,128,2013-10-18T15:24:18Z
+faressoft,Mohammad Anas Fares,FARESSOFT,Berlin,faressoft.com@gmail.com,true,"Senior Software Engineer at Wolt. Ex-Amazon.
+
+🦄
+Let's Talk !
+https://linkedin.com/in/faressoft",78,516,19,2012-06-30T11:13:36Z
+xeolabs,xeolabs,XEOLABS,"Berlin, Germany, Aotearoa",,true,3D Web Software Engineering | #BIM #AEC #MedViz #WebGPU #WebGL,172,515,12,2009-05-11T02:07:20Z
+xyflow,xyflow,,Berlin,info@xyflow.com,false,Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable,20,513,0,2014-03-30T12:14:11Z
+AriaMinaei,Aria,,Berlin & Helsinki,aria.minaei@gmail.com,true,,79,507,211,2011-01-31T16:59:46Z
+hellofresh,HelloFresh,,Berlin,admin@hellofresh.com,false,,132,506,0,2013-05-14T17:25:24Z
+lukasmasuch,Lukas Masuch,,Berlin,Lukas.Masuch@gmail.com,false,,62,506,28,2012-11-21T09:03:10Z
+ikrum,Ikrum Hossain,DELIVERY HERO SE,"Berlin, Germany",ikrum.bd@gmail.com,true,"Live in code, Love in backend",32,500,12,2014-06-11T13:20:04Z
+asus4,Koki Ibukuro,FREELANCE,Berlin,,true,Freelance Creative Technologist,151,500,252,2010-08-08T04:36:35Z
+simoneas02,Simone Amorim,AMPEROAI,Berlin-Germany,simoneas03@gmail.com,true,"Mother, WWCode Leader, front-end developer, and  CSS evangelist. I'm passionate about running and bike riding  :heart: 
+",51,499,280,2014-06-09T18:22:22Z
+x42,Robin Gareus,,Berlin,,false,,125,498,8,2008-10-21T22:05:01Z
+blueyed,Daniel Hahler,"FREELANCER, UP FOR HIRE","Berlin, Germany",github@thequod.de,true,"Loving Python, terminals and good DevOps workflows.
+Support me via Bitcoin (18mYKFCYgpWREUW3QtgQXP19CkfyZ1Nce8), or Flattr.",595,494,99,2008-05-09T07:24:46Z
+peterp,Peter Pistorius,SNAPLET @REDWOODJS,Berlin,,false,"Building https://www.snaplet.dev, co-creator of @redwoodjs ",30,494,539,2009-01-07T14:40:05Z
+marinalimeira,Marina,GRIFFINBANK,Berlin,,false,Software engineer at @griffinbank ,84,493,69,2014-10-24T17:17:27Z
+metalmatze,Matthias Loibl,POLARSIGNALS,Berlin,mail@matthiasloibl.com,false,"Director of @polarsignals Cloud.
+Interested in web development, distributed systems, and metal. ",102,489,144,2011-06-24T01:30:32Z
+segunfamisa,Segun Famisa,,"Berlin, Germany",segunfamisa@gmail.com,false,Software Engineer,65,488,23,2012-08-10T16:35:27Z
+stefanw,Stefan Wehrmeyer,,"Berlin, Germany",,false,,161,488,69,2009-04-27T14:29:16Z
+ethanfrey,Ethan Frey,,"Berlin, Germany",,false,,62,487,11,2013-10-15T09:30:08Z
+PragTob,Tobias Pfeiffer,REMOTE.COM,Berlin,pragtob@gmail.com,false,"Likes people. Teamplayer, Open Source Enthusiast, Software Developer, TDDer, Speaker. Ruby, Elixir, JavaScript. Runs RUG::B. Loves green.",216,483,107,2011-02-08T10:31:59Z
+roidrage,Mathias Meyer,,"Berlin, Germany",meyer@paperplanes.de,false,"I used to write code once, now I just write words.",135,483,0,2008-04-06T08:53:03Z
+hwclass,Barış Güler,WURTH,Berlin,harderworking.class@gmail.com,true,,167,481,604,2013-03-02T20:06:36Z
+juanitorduz,Juan Orduz,WOLT / PYMC LABS,Berlin,juanitorduz@gmail.com,false,Mathematician & Data Scientist,33,479,276,2016-10-22T10:23:38Z
+rdilruba,Dilruba,,Berlin,dilrubakose@gmail.com,false,Software developer,32,476,4,2017-01-30T14:44:09Z
+okwme,billy rennekamp,"TRIFLE-LABS, @CLOVERS-NETWORK & @FOLIA-APP PREV @COSMOS & @INTERCHAINIO",Berlin,billy.rennekamp@gmail.com,true,,148,476,284,2011-08-07T05:56:16Z
+ivangfr,Ivan Franchin,,"Berlin, Germany",,false,,61,473,4,2015-01-16T17:24:16Z
+abhishek-ch,Abhishek Choudhary,,"Berlin, Germany",,true,"
+    Data Engineer and Data Science
+Working on several Big Data Technologies like Apache Spark, Hadoop, Kafka, Imapala, Apache Beam, Hive and others
+",66,469,197,2014-05-14T09:57:08Z
+durran,Durran Jordan,MONGODB @10GEN,"Berlin, Deutschland",durran@gmail.com,false,,54,466,0,2008-05-01T14:46:53Z
+aabouzaid,Ahmed AbouZaid,,"Berlin, Germany",,false,Tech Lead with Agility | M.Sc. in Data | Cloud-Native at Core | DevOps Transformation Advisor and Mentor | I enjoy helping businesses and individuals!,97,466,143,2014-02-23T00:49:55Z
+chrisgrieser,Chris Grieser,TECHNICAL UNIVERSITY OF BERLIN,"Berlin, Germany",,false,Researcher in sociology & SWE,80,465,26,2020-10-22T10:50:35Z
+sagar-viradiya,Sagar Viradiya,,"Berlin, Germany",sagarviradiya4444@gmail.com,true,Google Developer Expert for Android | Co-organizer of GDG MAD,75,463,96,2015-03-21T14:10:41Z
+DominicBreuker,Dominic Breuker,,Berlin,,false,,84,463,53,2013-10-29T15:19:34Z
+vertexclique,Theo M. Bulut,,"Berlin, Germany",,true,"λx.λy.y → λx.λz.z | compiler opt, 
+ @rust-lang, and ML  | 0xD20F2F5E6DFD6F11 – Different barb, same wire",135,462,4,2011-01-22T22:31:40Z
+ahmedeltaher,ahmed.mohamed,SAP SE,Berlin,ahmed000eltaher@gmail.com,true,Development Architect ,51,461,15,2012-06-03T12:38:01Z
+mxmxmx,mxmxmx,,berlin,,false,...,16,456,0,2013-05-26T08:33:37Z
+photoprism,PhotoPrism,,"Berlin, Germany",hello@photoprism.app,false,AI-Powered Photos App for the Decentralized Web. We are on a mission to protect your freedom and privacy.,16,455,0,2017-10-01T16:01:01Z
+diessica,,,"Berlin, Germany",,false,brazilian utopian alien,43,455,140,2013-08-24T23:40:04Z
+christophergandrud,Christopher Gandrud,SPOTIFY,Berlin,,true,Personalization @spotify,147,448,19,2011-12-26T07:27:16Z
+drogus,Piotr Sarnacki,CLOCKWORK LABS,Berlin,drogus@gmail.com,false,,176,448,39,2008-04-04T10:28:01Z
+tessr,Tess Rinearson,,Berlin,,false,,25,447,2,2011-05-07T07:36:59Z
+SimonDanisch,Simon,MAKIEORG,Berlin,,false,"Working on Julia, Graphics and GPUs",229,445,49,2011-08-28T20:28:21Z
+KutayAkalin,Kutay Akalın,,Berlin,,false,,28,440,18,2017-09-28T11:36:22Z
+Ohara124c41,Christopher Ohara,"DAILAB, @UDACITY", Tokyo ⮀ Los Angeles ⮀ Berlin,cao36@njit.edu,true,"Roboticist and cybernetician. Specializes in (space) robotics, artificial intelligence, embedded systems, and mechatronics.",142,437,512,2017-04-29T22:10:06Z
+IRCSS,Shahriar Shahrabi,,Berlin,sh.shahrabi@hotmail.com,false,An Iranian technical artist and programmer. ,31,434,0,2016-04-22T11:56:21Z
+mntmn,minute,LUKAS F. HARTMANN / MNT RESEARCH GMBH,Berlin,lukas@mntmn.com,false,,61,433,36,2009-11-08T15:36:47Z
+ff6347,Fabian Morón Zirfas,HBK-BS,Berlin,,true,👋🏽  I'm Fabian. I'm a creative technologist and educator @hbk-bs living in Berlin who occasionally does stuff that involves things.,518,431,609,2010-06-26T09:38:16Z
+berinhard,berin,,"Berlin, Germany",,false,let's play that,70,429,72,2010-04-06T19:53:33Z
+kianenigma,Kian Paimani,PARITYTECH,Berlin,,false,"@rustlang dev @paritytech.
+
+Parallel and Distributed Computer Systems @ VU Amsterdam.",81,427,63,2013-10-01T18:16:39Z
+SuperQ,Ben Kochie,PROMETHEUS,"Berlin, Germany",superq@gmail.com,false,Bit Plumber,170,425,9,2012-01-11T05:18:28Z
+gwens,Gwenan Spearing,VIMCAR,Berlin,gwenanspearing@hotmail.com,false,,0,422,23,2013-09-09T11:16:07Z
+hellosagar,Sagar Khurana,VIAEUROPE,"Berlin, Germany",,false, Android App Developer ||  Open Source Enthusiast || AWS Amplify || GSoC'22 @ Robolectric,96,421,198,2019-04-26T10:37:13Z
+tmbo,Tom Bocklisch,RASAHQ @SCALABLEMINDS,Berlin,tom@rasa.com,true,Full time Principal Architect @RasaHQ and Fun time Co Founder @scalableminds,62,420,2,2011-10-03T10:07:47Z
+delucis,Chris Swithinbank,WITHASTRO,"Berlin, Germany",,true,,100,419,146,2010-08-07T23:44:28Z
+hanshuebner,Hans Hübner,,Berlin,hans.huebner@gmail.com,false,,203,419,18,2009-07-26T05:51:20Z
+ueberdosis,Tiptap,,"Berlin, Germany",humans@tiptap.dev,false,Developer toolkit for building collaborative apps,34,419,0,2016-01-28T14:21:50Z
+almaleksia,Ksenia Bobrova,MICROSOFT,Berlin,,false,Ruby/Go,14,415,9,2012-06-23T20:20:27Z
+hackebrot,Raphael Aurich,MOZILLA,"Berlin, Germany",,false,open-source developer 👨🏻‍💻 member of @pytest-dev 🚀 staff software engineer at @mozilla 🔥🦊 he/him,123,414,17,2013-11-24T16:39:52Z
+AlexDenisov,Alex Denisov,FLEXAIHQ,Berlin,alex@lowlevelbits.org,false,Talking to machines,81,411,36,2011-11-06T09:23:32Z
+danascript,Daniela,,"Berlin, Germany",,false,Hi! 👋  I used to be an architect and now I code for a living. I create content and tutorials so that others could make a similar switch too.,44,406,56,2016-09-17T11:11:48Z
+tarek360,Ahmed Tarek,,Berlin,a.tarek360@gmail.com,true,"I enjoy pushing the limits of the Android development. I write to learn, I learn to share and I share to learn more.
+Twitter: a_tarek360",87,406,16,2014-09-01T13:53:21Z
+tillrohrmann,Till Rohrmann,RESTATE,"Berlin, Germany",trohrmann@apache.org,true,Trying to make building distributed systems simpler again with @restatedev. Apache Flink PMC member.,105,403,18,2013-10-23T14:02:45Z
+sschuberth,Sebastian Schuberth,CEO & CTO OF @DOUBLEOPEN-PROJECT,"Berlin, Germany",,false,A Kotlin enthusiast who's enjoying to work with and on Open Source Software.,119,403,236,2010-07-30T10:42:04Z
+esc,Emergency Self-Construct,ANACONDA INC.,"Berlin, Germany",,false,virtual entity 💣💣💣💣,46,403,95,2008-12-19T11:43:31Z
+mrackwitz,Marius Rackwitz,WELLSPENT,"Remote | Berlin, Germany",,false,"Cofounder @nlbb / Wellspent.
+
+Email me to:
+contact＠$firstName$lastName.de",102,402,147,2012-01-29T12:44:28Z
+hagenburger,Nico Hagenburger,"TYPEFACE DESIGNER, DESIGN SYSTEMS LEAD","Berlin, Germany",,true,"Design Systems Lead at WIFI@DB (@DeutscheBahnAG), former DS @heremaps, mentor for #RGSoC for PIMD & @LSGorg, typeface designer, U-Bahn nerd.",64,400,12,2009-07-09T21:15:30Z
+gusgad,Guseyn Gadirov,,"Berlin, Germany",gusgadirov@gmail.com,false,,29,399,24,2015-12-06T20:08:37Z
+w0rm,Andrey Kuzmin,,"Berlin, Germany",hi@unsoundscapes.com,true,"
+    I <3 concerts, yoga & functional programming. 
+",48,398,140,2008-12-31T08:00:57Z
+cpanato,Carlos Tadeu Panato Junior,CHAINGUARD-DEV,Berlin,ctadeu@gmail.com,false,,355,396,0,2013-04-10T13:39:08Z
+azproduction,Mikhail Davydov,ARRIVAL GERMANY GMBH,"Germany, Berlin",,true,,96,396,7,2010-11-16T13:48:46Z
+ForsakenHarmony,hrmny,SOFTWARE ENGINEER @VERCEL,"Berlin, Germany",,false,@preactjs core team | ❤️ @rust-lang,139,394,6,2014-09-20T21:12:59Z
+lucasmichot,Lucas Michot,,"Berlin, Germany",,false,,20,393,18,2010-12-07T19:37:57Z
+jrieke,Johannes Rieke,STREAMLIT,"Berlin, Germany",johannes.rieke@gmail.com,true,Product manager @streamlit,101,393,44,2013-07-27T16:04:45Z
+slint-ui,Slint,,Berlin,info@slint.dev,false,"Slint - Declarative GUI for Rust, C++, and JavaScript",36,392,0,2020-05-03T15:35:02Z
+lastzero,Michael Mayer,PHOTOPRISM,Berlin,michael@photoprism.app,false,"Started coding on an Atari 1040 ST, survived Usenet, and got involved with the Web and Open Source in the early 90s. Simple is beautiful.",48,390,170,2010-06-10T09:26:44Z
+ndom91,Nico Domino,,Berlin,,false,CEO of HTML,130,390,94,2014-04-26T19:35:49Z
+opf,OpenProject,,Berlin,info@openproject.org,false,,88,390,0,2012-05-20T12:56:12Z
+adbar,Adrien Barbaresi,BERLIN-BRG. ACADEMY OF SCIENCES (BBAW),Berlin,,false,"Research scientist – natural language processing, web scraping and text analytics. Mostly with Python.",27,389,269,2012-08-09T21:18:46Z
+krother,Kristian Rother,ACADEMIS,"Berlin, Germany",krother@academis.eu,true,"Data Science Teacher & Developer. Based in Berlin. Teaching Python since 2002. Wrote ""Pro Python Best Practices"" (APress).",81,388,27,2009-07-31T15:30:47Z
+jpkrohling,Juraci Paixão Kröhling,GRAFANA LABS,"Berlin, Germany",juraci.kroehling@grafana.com,false,,393,388,38,2008-06-11T18:30:43Z
+turian,Joseph Turian,,Berlin + New York,,false,"Deep learning, NLP, audio AI 🧑‍🔬
+
+Postdoc under Bengio 🧑‍🎓
+
+ACL 10 Year Test of Time Award (lead author) 🌟 when art meets science... 👩‍🎤",154,388,60,2009-03-23T03:08:08Z
+fritzing,Fritzing,,"Berlin, Germany",info@fritzing.org,false,electronics made easy,17,386,0,2014-08-26T22:13:42Z
+afuh,Axel Fuhrmann,UP42,Berlin,,true,,52,386,13,2017-01-17T09:47:08Z
+prof18,Marco Gomiero,AIRALO,Berlin,,false,"Senior Android Developer @ Airalo • Kotlin Google Developer Expert • Android & Kotlin Lover, fan of Kotlin Multiplatform",71,384,54,2014-10-30T18:32:43Z
+ManiMozaffar,Mani Mozaffar,NOAH LABS,Berlin,mani.mozaffar@gmail.com,false,,57,383,34,2021-07-04T10:59:37Z
+timpritlove,Tim Pritlove,METAEBENE PERSONAL MEDIA,"Berlin, Germany",,false,"Dedicated Podcaster. Professional Amateur. Discordian Evangelist.
+
+Catering to the public at @metaebene @podlove @blinkenlights ",14,383,10,2009-08-26T11:05:05Z
+andywer,Andy Wermke,,"Berlin, Germany",,false,"Engineer and co-founder. Node.js since 2011, React since 2014, Python, some Rust, C/C++/Java/Assembler/PHP earlier. Into #ai, #blockchain and #cryptography",102,382,28,2012-06-12T12:59:01Z
+schriftgestalt,Georg Seifert,GLYPHSAPP GMBH,Berlin,,false,,195,382,0,2009-12-31T12:31:06Z
+aksakalli,Can Güney Aksakalli,ZALANDO EX @TOMTOM-INTERNATIONAL,"Berlin, Germany",can.aksakalli@rwth-aachen.de,true,,49,382,47,2012-07-08T18:52:42Z
+MoeinDeveloper92,Moein,,Germany-Berlin,,false,"MERN Stack Developer, and life long learner.
+Skills:
+1:JavaScript
+2:React/React-Native
+3:MongoDB/Mongoose/SQL
+5:NodeJs/Nestjs/API/RESTAPI
+6:Security skill",73,381,1036,2022-06-21T19:30:56Z
+cjolowicz,Claudio Jolowicz,CLOUDFLARE,"Berlin, Germany",,true,,204,379,29,2011-03-06T13:41:22Z
+StephanEwen,Stephan Ewen,"RESTATE, APACHE FLINK",Berlin,,false,,12,378,0,2012-05-10T16:06:11Z
+boennemann,Stephan Bönnemann-Walenta,PROSPERITY-TECH,"Berlin, Europe",me@sbw.one,true,"Co-CEO @prosperity-tech.
+
+Formerly @semantic-release, @conc-at, @greenkeeperio, @hoodiehq.",62,377,44,2011-07-11T16:19:53Z
+TheLartians,Lars Melchior,,Berlin,,false,"Hey there! I'm a physicist, entrepreneur and full stack engineer based in Berlin.",55,377,56,2013-05-15T12:15:54Z
+ravanscafi,Ravan Scafi,HELLOFRESH,"Berlin, Germany",,false,"backend engineer @hellofresh ~ organizer @laravelsp ~ evangelist @PHPSP
+",16,377,125,2013-12-04T11:26:39Z
+turbo,Pierre,GITHUB,"Berlin, Germany",turbo@github.com,false,Product at @GitHub (CodeQL code scanning),212,376,18,2014-06-30T07:05:19Z
+guitmz,Guilherme,DEVSBB,Berlin,thomazi@linux.com,true,"xor rsp, rsp",133,375,50,2013-05-29T14:16:38Z
+gumb0,Andrei Maiboroda,ETHEREUM @IPSILON,"Berlin, Germany",,false,,46,374,6,2012-06-18T15:06:52Z
+squat,Lucas Servén Marín,,Berlin,,false,"working on Kubernetes, Prometheus, and Thanos",141,373,18,2016-07-16T00:48:40Z
+zubairehman,Zubair Rehman,CHOCO,Berlin,zubairehman.work@gmail.com,true,Android | Flutter Developer,121,373,6,2014-06-17T17:49:59Z
+burnash,Anton Burnashev,,Berlin,,false,,40,371,144,2010-05-04T16:00:14Z
+lisacharlotterost,Lisa Charlotte Muth,DATAWRAPPER,"Berlin, Germany",lisacharlotterost@gmail.com,false,"Creating, blogging & talking about data viz. #visber organizer. Interested in beauty. Fan of numbers, systems & overviews. I believe in maps, not the territory.",11,370,7,2014-10-24T09:32:15Z
+TimDaub,Tim Daubenschütz,ATTESTATE,Berlin,tim@daubenschuetz.de,true,I solidify things,189,370,0,2012-11-09T11:27:36Z
+lgrammel,Lars Grammel,VERCEL,"Berlin, Germany",,false,,83,370,33,2010-02-17T03:06:55Z
+kkaefer,Konstantin Käfer,MAPBOX,"Berlin, Germany",mail@kkaefer.com,false,,94,369,30,2009-02-06T17:39:03Z
+axsaucedo,Alejandro Saucedo,ETHICALML @ZALANDO,"Berlin, Germany",,true,"@Zalando Director of Eng, Science, Product & Analytics | Chair / Advisor at UN, ACM, LF, etc",190,369,43,2012-02-17T18:52:14Z
+Skn0tt,Simon Knott,MICROSOFT,Berlin,info@simonknott.de,false,Working on Microsoft Playwright.,193,367,126,2015-09-30T18:49:46Z
+brauner,Christian Brauner,,Berlin,christian@brauner.io,false,@lxc ,80,367,47,2014-04-20T14:29:57Z
+aap,,,Berlin,,true,"Retrocomputerist, Computer Scientist, ex-GTA hacker and Indo-Europeanist",54,367,23,2012-03-09T21:06:13Z
+Fcmam5,Fortas Abdeldjalil,,"Berlin, Germany",,true,A part-time Karantika lover,147,365,129,2014-10-08T18:44:57Z
+juliuste,Julius Tens,,"Berlin, European Union",mail@juliustens.eu,false,"Advocating for Open Data in public transportation.
+
+Currently not too responsive for personal reasons, I'm really sorry.
+
+Languages: 🇩🇪🇬🇧🇫🇷
+he/they",141,364,64,2012-03-28T17:07:19Z
+acao,Rikki Schulte,,"Berlin, DE",,true," 🏳️‍🌈 🏳️‍⚧️ 🧜🏻‍♀️
+
+Available for consulting!",157,363,182,2012-01-22T20:15:24Z
+mrtazz,Daniel Schauenberg,GITHUB,Berlin,mrtazz@github.com,false,a cheap trick and a cheesy one-liner. computer person. owner @ my opinions. feminist,105,362,46,2009-03-28T17:06:12Z
+weaveworks,Weaveworks,,"London, Berlin, NY, Colorado, SF, Remote",,false,weaving containers into applications,146,362,0,2014-11-27T11:49:24Z
+cloudpanel-io,,MGT-COMMERCE GMBH,Berlin,,false,,14,362,0,2019-08-08T11:51:48Z
+fehmicansaglam,Fehmi Can Sağlam,TRENDYOL,"Berlin, Germany",fehmican.saglam@gmail.com,false,Coder.,64,361,64,2010-10-20T00:21:12Z
+runningcode,Nelson Osacky,GRADLE,Berlin,,true,,166,361,61,2010-07-15T02:53:25Z
+whoenig,Wolfgang Hönig,TECHNICAL UNIVERSITY BERLIN,"Berlin, Germany",,false,,42,361,2,2013-02-16T21:42:32Z
+baptistebriel,Baptiste Briel,CREATIVE DEVELOPER,amsterdam / berlin,,true,,13,358,210,2012-10-01T15:26:58Z
+fortmarek,Marek Fořt,TUIST,"Berlin, Germany",marekfort@me.com,true,,89,357,212,2014-10-23T19:48:33Z
+laramartin,Lara Martin,,Berlin,,true,Android Developer · Queen of Code Deprecation,78,357,16,2015-08-21T13:51:35Z
+ashiishme,Ashish Yadav,JUSTEATTAKEAWAY,"Berlin, Germany",,true,👨‍💻 Software Engineer @ JustEatTakeaway.com | Open Source ,96,357,17,2016-03-28T07:29:13Z
+MarkusH,Markus Holtermann,,Berlin,,false,"@django Core Developer, @djangocon Australia 2018-2020 organizer, @EuroPython 2014 organizer, TU Berlin Alumni",117,356,20,2010-11-10T12:13:13Z
+jhass,Jonne Haß,,"Berlin, Germany",me@jhass.eu,false,,79,356,48,2009-10-18T14:00:48Z
+imskr,Shubham Kumar,GITLAB,"Berlin, Germany",hello@shubham-kumar.com,true,Backend Engineer at GitLab | GSoC 2021 @gitlabhq and GSoC 2020 @mozilla,108,356,10,2018-08-03T09:39:56Z
+soundcloud,SoundCloud,,"Berlin, Germany",,false,,57,355,0,2008-08-18T14:13:13Z
+RomelTorres,Romel Torres,MBITION (MERCEDES BENZ INNOVATION LAB),"Berlin, Germany",,true,"I am Msc. in Embedded Computing Systems who loves Open Source. My interests are NLP, Voice Assistants, Open QA systems and Embedded Linux",29,353,31,2012-02-09T19:34:16Z
+andela-sjames,samuelvarejames,ELATEC GMBH,"Berlin, Germany",samuelvarejames@gmail.com,true,Full-Stack Software Engineer.,76,353,68,2015-07-08T07:42:30Z
+chrisguttandin,Christoph Guttandin,,Berlin,,true,,132,352,10,2009-11-26T07:36:51Z
+jamiehannaford,Jamie Hannaford,GITHUB,Berlin,,false,,99,352,5,2012-06-19T11:13:53Z
+laf0rge,Harald Welte,SYSMOCOM,"Berlin, Germany",laforge@gnumonks.org,false,"ex-netfilter, ex-Linux-Kernel, ex-Openmoko, founder of @osmocom , OpenBSC, OsmocomBB and other FOSS for cellular communications.",36,351,78,2011-12-08T16:21:19Z
+Pisush,Natalie,,Berlin,,true,,41,351,0,2014-05-15T13:07:11Z
+ym,Aveline,MISAKAIO,"Berlin, Germany",g@xswan.net,false,"Too young too simple, sometimes naïve.",161,350,155,2010-08-03T05:32:05Z
+MichaelKreil,Michael Kreil,,Berlin,github_contact@michael-kreil.de,true,data journalist,121,350,120,2011-08-26T18:46:51Z
+perusio,António P. P. Almeida,UP42,"Berlin, Germany",,true,Information Security Manager at UP42 GmbH,135,347,10,2008-12-11T04:02:53Z
+alexbeletsky,Alexander Beletsky,"BLOGFOSTER, @SOCIALSEARCHIO","Berlin, Germany",alexander.beletsky@gmail.com,false,,133,345,185,2010-06-14T15:26:52Z
+marcinguy,Marcin Kozlowski,,"Berlin, Germany",marcinguy@gmail.com,false,IT,19,345,70,2016-07-08T11:14:01Z
+martinklepsch,Martin Klepsch,,Berlin,martinklepsch@googlemail.com,false,,251,344,47,2009-06-21T11:06:13Z
+janeczku,Jan B,RANCHER,"Berlin, DE",,false,,185,342,5,2013-03-09T01:09:46Z
+fractaledmind,Stephen Margheim,,"Berlin, Germany",stephen.margheim@gmail.com,false,"Hey, I’m Stephen. I'm an American expat living in Berlin with my wife and two dogs. I am a contributor to Rails and the sqlite3-ruby gem as well as the maintain",105,342,23,2013-07-24T00:32:35Z
+manojpandey,Manoj Pandey,SELF-EMPLOYED,"Berlin, Germany",manojpandey1996@gmail.com,true,"Currently: null;
+Prev: Plan A, @instana/@IBM @celeraone @Yelp @andrepeat @squadstack / Founder & Organizer @pydatadelhi /
+Developer with a knack for Design",134,341,92,2013-06-20T15:25:22Z
+doctolib,Doctolib,,"Paris, Berlin",,false,Our mission is to contribute to transforming healthcare with an innovative approach. Learn more about our engineering team on our career page.,55,341,0,2013-10-31T14:17:39Z
+fineanmol,ANMOL AGARWAL,,"Berlin, Germany",,true,"React Developer 💻 || JS Lover ❤️ || Python Scripter  || I love building software, contributing to open source projects and tinkering with new ideas.",122,340,44,2016-12-27T14:53:34Z
+gorgos,Markus Waas,INJECTIVELABS,"Berlin, Germany / Auckland, New Zealand",mail@markuswaas.com,false,Solidity / Blockchain Engineer,42,338,7,2011-03-09T08:14:25Z
+traumverloren,Stephanie,,"Berlin, Germany",,false,"I 💖 building weird stuff w/ LEDs, raspberry pi, arduinos ⚡️ i speak at tech confs sometimes. ✨ proudly adhd/neurodivergent",149,338,54,2014-11-26T08:17:41Z
+syllog1sm,Matthew Honnibal,FOUNDER @EXPLOSION,"Berlin, Germany",honnibal@gmail.com,false,My main profile is @honnibal,19,338,1,2011-05-11T10:02:02Z
+jackschaedler,Jack Schaedler,,Berlin,jwschaedler@gmail.com,false,,12,337,7,2010-08-16T03:51:32Z
+dirkschumacher,Dirk Schumacher,,Berlin,mail@dirk-schumacher.net,false,,157,336,65,2012-03-23T22:06:49Z
+ngoduykhanh,Khanh Ngo,,"Berlin, Germany",k@ndk.name,false,,33,335,12,2014-01-20T05:06:06Z
+sdepold,Sascha Depold,EBAY GMBH,Berlin,,false,,204,333,16,2009-04-29T13:39:42Z
+smurawski,Steven Murawski,MICROSOFT @AZURE,"New Berlin, WI",steven.murawski@microsoft.com,false,Principal Cloud Advocate at Microsoft,83,333,29,2013-03-29T16:29:23Z
+woachk,,"AWS, @CHECKRA1N","Berlin, Germany",,false,"Kernel/hypervisor engineer, Amazon EC2.",52,332,1,2016-12-24T12:18:23Z
+Kardelio,Benjamin Kadel,BABBEL,Berlin,,false,"Senior Android Developer working in Berlin (DE) with an aspiring Tech/Dev YouTube Channel
+
+",84,331,141,2015-01-14T00:05:24Z
+marimeireles,Mariana Meireles,MPIEVOLBIO-SCICOMP,berlin,marianameireles@protonmail.com,true,:octocat: octocatnaut & opensourcerer 🧙🏼‍♀️,186,329,115,2016-03-02T19:33:30Z
+pauladiniz,Paula Diniz,COLONIA TECH,Berlin,bomdiapaulaa@gmail.com,true,I develop stuff with Javascript for food and fun. ,61,329,136,2016-05-18T16:50:07Z
+coderobe,Mara Robin B.,"ARCHLINUX, EX-@PARITYTECH","Berlin, Germany",,false,i put on my robe and wizard hat‏,146,327,270,2014-08-13T20:47:22Z
+CesarValiente,Cesar Valiente Gordo,MICROSOFT,"Berlin, Germany",,false,Android @microsoft ,62,326,35,2011-09-14T16:29:45Z
+jdennes,James Dennes,,"Berlin, Germany",,true,,57,326,8,2009-03-19T22:11:12Z
+abdulfatir,Abdul Fatir,AMAZON WEB SERVICES,Berlin,Abdulfatirs@gmail.com,true,"Applied Scientist, @aws",59,326,8,2013-04-01T17:46:52Z
+htbkoo,htbkoo,,"Berlin, Germany",,true,Software engineer,282,326,856,2015-03-21T03:34:26Z
+carolstran,Carolyn Stransky,EMNIFY,Berlin,hello@workwithcarolyn.com,false,"🌱👩🏼‍💻 Reluctant frontend engineer focused on accessibility, documentation, and design systems.",26,325,2,2017-04-03T10:11:10Z
+spicedacademy,Spiced Academy,SPICED EDUCATION GMBH,"Mariendorfer Damm 1, 12099 Berlin",,false,,7,325,3,2016-07-11T14:14:02Z
+bluemix,Abdulmomen Bsruki,,Berlin,a.bluemix@gmail.com,false,programming machines,105,324,1123,2013-01-21T20:10:46Z
+janlelis,Jan Lelis,,Berlin,hi@ruby.consulting,false,,127,324,210,2009-08-03T17:41:50Z
+andydandy74,Andreas Dieckmann,BADMONKEYSTEAM,"Berlin, Germany",,false,,6,324,26,2012-12-11T07:57:19Z
+zoepage,Ola Gasidlo-Brändel,SINNERSCHRADER @ACCENTURE,Berlin,,false,Senior Principal Software Engineer at Accenture Song,33,324,77,2011-01-13T09:34:21Z
+aqrln,Alexey Orlenko,PRISMA,"Berlin, Germany",alex@aqrln.net,false,,75,323,255,2013-07-02T17:35:35Z
+JustinShenk,Justin Shenk,SIMERSETEAM,"Berlin, Germany",shenk.justin@gmail.com,false,"Founder of @VisioLab, @traja-team and @delve-team",82,322,2034,2014-12-22T13:46:54Z
+mwarning,Moritz Warning,,Berlin,moritzwarning@web.de,true,Mesh Routing Algorithm Enthusiast,58,321,5,2011-01-03T23:04:48Z
+gkmngrgn,Gökmen Görgen,MIMIHEARINGTECHNOLOGIES,Berlin,gkmngrgn@gmail.com,true,"OS-agnostic Polyglot Programmer and Bassist 🎶 
+#python #rust #go #typescript",14,321,8,2009-04-10T01:11:30Z
+tssovi,Tusamma Sal Sabil,ALIGN TECHNOLOGY,Berlin,t.s.s.ovi@gmail.com,true, ❅ Backend Developer ❅ AI Enthusiast ❅ Algorithm Learner ❅ Passionate Problem Solver ❅ Tech Savvy ❅,46,321,0,2014-05-14T02:21:54Z
+brunagil,Bruna Gil ,,Berlin,,true,"Front end engineer  / JavaScript lover
+",60,321,121,2018-08-13T19:13:38Z
+IliaKani,Ilia,,Berlin,,false,Front-End Web Developer | HTML/CSS & JavaScript (React),16,317,330,2023-10-04T13:26:25Z
+mmourafiq,Mourad,,"Berlin, Germany",,true,,95,316,1,2011-12-13T23:14:31Z
+nikku,Nico Rehwaldt,,"Berlin, Germany",,true,,138,315,4,2009-02-27T16:42:37Z
+deanm,Dean McNamee,,"Berlin, Germany",,false,,42,314,2,2009-02-21T13:24:32Z
+thejonanshow,Jonan Scheffler,DXOS,"Berlin, DE",jonanscheffler@gmail.com,false,Head of Developer Relations at DXOS.org.,197,313,33,2010-05-07T20:33:27Z
+cmaureir,Cristián Maureira-Fredes,THE QT COMPANY,"Berlin, Germany",,true,"Team Lead at The Qt Company | @pyside maintainer | @psf Fellow & Board Director | @pypa moderator | former Astrophysicist.
+",141,312,71,2010-01-07T14:40:04Z
+discordianfish,Johannes 'fish' Ziemke,,Berlin,,true,"Freelance Cloud Native Consultant, Founder of @prometheus node_exporter.
+
+",268,312,16,2010-05-13T21:45:23Z
+seiflotfy,Seif Lotfy,AXIOMHQ,"Berlin, Germany",me@seif.codes,true,"
+    eat, sleep, <code>, repeat
+",68,311,79,2009-08-21T09:57:57Z
+yjs,Yjs,,"Germany, Berlin",kevin.jahns@protonmail.com,false,Shared Editing,28,309,0,2018-11-14T15:33:35Z
+larsxschneider,Lars Schneider,,"Berlin, Germany",,false,"Kiteboarder, hiker, engineer @GitHub.",87,307,27,2010-11-11T14:43:36Z
+zalandoresearch,Zalando Research,,"Berlin, Germany",research@zalando.de,false,Repositories of the research branch of Zalando SE,26,307,0,2017-08-09T14:20:58Z
+mindreframer,Roman Heinrich,,"Germany, Berlin",,true,Golang / Elixir / Ruby / Clojure / React.js / Devops,303,307,310,2008-02-27T22:51:13Z
+yomete,Yomi Eluwande,,Berlin,yomi.eluwande@gmail.com,false,,90,306,119,2014-10-04T09:18:19Z
+johnjohndoe,Tobias Preuss,,"Berlin, Germany",,true,"I 💟 open source. @EventFahrplan maintainer, @Umweltzone maintainer",382,305,75,2009-10-25T19:58:19Z
+felipecruz,Felipe Cruz,,"Berlin, Germany",felipecruz@gmail.com,false,"{CS, ML, DS}",34,305,127,2009-05-14T17:23:59Z
+missinglink,Peter Johnson,"GEOCODEEARTH, @PELIAS",Berlin,,false,"Building open-source Geocoding/GIS software since 2014. Kiwi. Father. Founder @pelias, @geocodeearth. Previously at @mapzen",253,304,300,2011-04-19T02:28:16Z
+Victoriapm,Victoria Perez Mola,ORGANIDATA,Berlin,,true,"Highly caffeinated analytics engineer, if you need to dig a database you have my attention. 
+
+Enseño lo que se de datos en organidata.github.io",43,304,28,2013-05-01T22:34:12Z
+lourot,Aurélien Lourot,,"Berlin, Germany",software@lourot.dev,false,Software developer,56,304,597,2015-04-04T09:08:20Z
+janober,Jan Oberhauser,N8N.IO,"Berlin, Germany",,false,,26,303,1,2013-12-23T19:53:35Z
+yogiben,Ben Jones,BITWALA,Berlin,,true,CTO & Co-Founder at Bitwala,95,303,72,2012-05-03T16:51:40Z
+fhueske,Fabian Hueske,CONFLUENT,"Berlin, Germany",,false,"I'm a committer and PMC member of @apache Flink, software engineer at @confluentinc, co-founder of @dataArtisans, and author for O'Reilly.",23,300,1,2012-09-20T19:26:15Z
+nickstenning,Nick Stenning,REPLICATE,Berlin,,false,,179,299,19,2008-03-21T21:16:05Z
+adriankumpf,Adrian Kumpf,,Berlin,,true,,53,298,127,2014-10-02T16:59:29Z
+anna-geller,Anna Geller,,"Berlin, Germany",contact@annageller.com,false,"Product Lead at kestra.io | Data Engineer. Technical Writer. Fan of long walks, movies & serverless.  ",50,298,7,2021-06-21T19:58:18Z
+laurmaedje,Laurenz,TYPST,Berlin,laurmaedje@gmail.com,false,,30,297,6,2016-03-17T08:45:37Z
+vasco-santos,Vasco Santos,PROTOCOL,"Berlin, Germany",,true,Making the web distributed with @libp2p @ipfs @filecoin-project  🚀,90,295,57,2014-04-14T20:58:34Z
+kshitij10496,Kshitij Saraogi,TOKNAPP,"Berlin, Germany",kshitij.saraogi@gmail.com,false,"more awesome, less suck.",32,292,132,2015-05-13T10:11:11Z
+neobrain,Tony Wasserka,,Berlin,,false,"Independent consultant・embedded systems, device drivers, firmware, kernels, etc・C++ and Haskell・Wii and 3DS emulator developer",40,291,0,2013-06-26T20:14:52Z
+jfahrenkrug,Johannes Fahrenkrug,,Berlin,,false,Independent iOS Developer,97,291,88,2008-07-08T05:18:10Z
+d3vilbug,bugzy,,"Berlin, Germany",,true,"n00b, wanna be a hacker one day
+",4,290,239,2015-08-20T13:06:22Z
+grobie,Tobias Schmidt,GIGS,Berlin,,true,Head of Engineering @gigs,65,290,50,2008-03-19T14:36:19Z
+AlaaAttya,Alaa Attya Mohamed,DELIVERY HERO,"Berlin, Germany",alaa.attya91@gmail.com,false,Software engineer. For the love of software engineering i do live.,113,289,74,2012-12-02T08:27:52Z
+atilafassina,Atila Fassina,CRABNEBULA-DEV,Berlin,atila@fassina.eu,true,DevRel | Tech Lead | Educator,89,288,30,2012-09-20T02:19:54Z
+streadway,Sean Treadway,VEO - EX SOUNDCLOUD,Berlin,,false,,39,288,3,2008-08-06T08:48:01Z
+goetas,Asmir Mustafic,,"Berlin, Germany",goetas@gmail.com,true,"Software Architect and IT Consultant, specialties: PHP, Symfony and Docker, Puppet - in love with open source",93,285,59,2011-05-09T12:29:52Z
+davidfurlong,David Furlong,FRAMESJS @OPEN-FRAMES,Berlin,dvfurlong@googlemail.com,false,"Building modprotocol.org Prev: Founder & CTO @DeedMob. Prev: CS & Phil @ OxfordUni.
+
+React/TypeScript/Node",171,285,429,2011-02-12T19:25:11Z
+objectbox,ObjectBox,,"Berlin, Germany",,false,"On-device database & vector database for local object persistence, 10x faster than SQLite",35,285,0,2016-09-20T17:38:20Z
+Drakulix,Victoria Brekenfeld,SYSTEM76,Berlin,,false,,61,285,21,2013-05-11T15:20:57Z
+rafaeljesus,Rafael Jesus,,"Berlin, Germany",,true,SRE/SWE @LightStep,212,285,608,2011-11-23T19:21:09Z
+objcio,objc.io,,Berlin,,false,,477,284,0,2013-05-12T11:22:31Z
+vitling,David Whiting,,"Berlin, Germany",,true,,21,284,1,2012-02-17T14:43:16Z
+hamoid,Abe Pazos,PRACHTSAAL STUDIO,"Berlin, Germany",abe@hamoid.com,false,"Generative art & design. Co-organizer of Creative Code Berlin since 2013. GLSL shader workshops. @openrndr contributor.
+
+Now on https://codeberg.org/hamoid",35,283,41,2009-07-24T09:23:43Z
+anaschwendler,Ana Schwendler,,Berlin,,false,"Well sir, what do you bring to the table?",42,283,86,2013-04-11T23:34:00Z
+daniel-j-h,Daniel J. H.,,"Berlin, Germany",,false,,140,283,284,2010-12-17T12:59:54Z
+Nitrokey,Nitrokey,,Berlin,info@nitrokey.com,false,Secure your digital life,199,283,0,2014-10-28T21:55:10Z
+sejalv,Sejal Vaidya,,"Berlin, Germany",,true,Data generalist,21,282,51,2014-10-19T17:05:08Z
+chrxh,Christian Heinemann,,"Berlin, Germany",heinemann.christian@gmail.com,false,Creator of alien-project.org | ALife and CUDA enthusiast | PhD | Software engineer | Ex-researcher in Applied Analysis,7,282,27,2020-10-19T15:53:59Z
+al2na,Altuna Akalin,BERLIN INSTITUTE FOR MEDICAL SYSTEMS BIOLOGY,Berlin,,true,doing stuff ,73,281,0,2011-02-25T16:26:13Z
+mr-c,Michael R. Crusoe,COMMON-WORKFLOW-LANGUAGE,"Berlin, Germany",,false,@common-workflow-language co-founder & CWL Project Lead. Debian Developer volunteer for the Debian-Med (bioinformatics) team. #SciWorkflows #FreeOpenStandards,476,280,54,2012-01-14T21:46:42Z
+yogmel,Mellina Yonashiro,DELIVERY HERO,"Berlin, Germany",yonashiro.mellina@gmail.com,false,Software engineer,52,280,131,2013-03-18T18:03:26Z
+DenisovAV,Sasha Denisov,EPAM,"Berlin, Germany",denisov.shureg@gmail.com,false,"Sasha is a Flutter, Dart and Firebase GDE, Head of Flutter Discpilne in EPAM,  Co-organizer of Flutter Berlin Meetup",44,279,3,2014-11-08T07:45:38Z
+arianvp,Arian van Putten,,Berlin,,false,,290,279,57,2011-02-20T15:03:03Z
+mishushakov,Mish Ushakov,,"Berlin, Germany",,true,Make things work,44,278,171,2015-01-05T11:24:11Z
+thyrlian,Jing Li,LASTMINUTEDOTCOM,"Berlin, Germany",,true,"Code ⌨ & Play 🏀 | Nostalgist | Engineering Director @lastminutedotcom, formerly Clark, FREENOW, Viacom, eBay, HERE Maps, SONY, Motorola",81,278,209,2010-08-03T15:46:23Z
+adrianheine,Adrian Heine né Lang,,Berlin,mail@adrianheine.de,true,"Profile picture by Veronica Jonsson, cc-by-2.0",86,277,21,2009-10-13T15:01:56Z
+lorey,Karl Lorey,STARTUPRADAR @LOREYVENTURES,"Berlin, Germany",git@karllorey.com,true,"Data and VC. ML, Crawling, Scraping. Using whatever gets the job done, mostly Python, SQL, HTML/CSS, JS.",34,277,270,2012-03-18T21:29:33Z
+unnamedd,Thiago Holanda,EGYM @EVOLUTION-APP,Berlin,,false,"Always working on something with Swift, Xcode, CLI and now, Rust too. #StandWithUkraine.",149,277,50,2009-05-12T14:36:43Z
+septag,Sepehr Taghdisian,UBISOFT,Berlin / Germany,septag@pm.me,true,,41,277,31,2013-07-24T14:23:28Z
+asaaki,Christoph Grabo,MARKENTIER,"Berlin, Germany",,true,"Holistic Engineer. Methodical Deep Thinker. {he, they}
+
+🦄👨🏼‍💻 at @contentful",146,276,270,2010-10-20T09:13:37Z
+alanakbik,Alan Akbik,,Berlin,,false,"Creator of the Flair NLP framework
+",9,276,1,2016-04-25T17:49:09Z
+Fouloscopie,,,Berlin,,false,Chercheur @ Institut Max Planck Berlin.,1,276,0,2021-04-15T19:35:03Z
+sacridini,Eduardo Lacerda,HUMBOLDT-UNIVERSITÄT ZU BERLIN,"Berlin, Germany",eduardolacerdageo@gmail.com,true,,52,275,69,2014-05-31T20:05:59Z
+nomicode,Naomi,,"Berlin, Germany",,true,,30,275,3,2008-09-06T19:50:18Z
+talitaoliveira,Talita Oliveira,IMMOBILIEN SCOUT24,"Berlin, Germany",,false,Software Engineer,93,275,125,2012-08-15T16:59:47Z
+marktani,Nilan Marktanner,,Berlin,,false,"Learning about life, humans, culture, languages, and everything else. I'd love to meet you!",107,274,23,2012-05-26T11:25:54Z
+Licenser,Heinz N. Gies,,"Berlin, Germany",heinz@licenser.net,false,,224,273,43,2009-08-25T00:16:51Z
+Khaledgarbaya,Khaled Garbaya,UNIFORMDEV,Berlin - Germany,khaledgarbaya@gmail.com,false,Engineering Leader,196,273,155,2011-10-27T16:40:42Z
+s1monw,Simon Willnauer,ELASTIC,Berlin,simonw@apache.org,false,,18,273,1,2011-08-11T07:56:17Z
+angelikatyborska,Angelika Cathor,,"Berlin, Germany",,false,,63,272,17,2014-06-10T18:41:49Z
+bennycode,Benny Neugebauer,SOUTHPOLECARBON,Berlin,mail@bennycode.com,true,I am a professional programmer who likes to collaborate with passionate & friendly people. 💻💫,297,271,34,2010-11-06T10:37:23Z
+Kovah,Kevin Woblick,,"Berlin, Germany",contact@kovah.de,false,"Full Stack Web Engineer and Open Source Creator.
+DevOps @ Universal Music Germany",43,271,56,2012-06-04T17:15:47Z
+mrflix,Felix Niklas,,"Berlin, Germany",,true,Freelance web developer,48,270,15,2009-03-06T14:27:43Z
+sorenbs,Søren Bramer Schmidt,PRISMA,Berlin / SF,,false,"If you are building for a global audience, you should give @prisma a try. Twitter DMs open - please reach out!",41,270,10,2010-05-19T12:33:13Z
+tsterbak,Tobias Sterbak,,"Berlin, Germany",,true,"Data Scientist, Mathematician, Machine Learning Engineer, Open Source developer",48,269,19,2015-07-13T08:02:25Z
+rixx,Tobias Kunze,PRETALX.COM,"Berlin, Germany",r@rixx.de,false,"I build things, like @pretalx or @venueless. I run events, like @metarheinmain or @c3cashdesk.",169,268,76,2012-10-26T13:59:27Z
+reuben,Reuben Morais,,Berlin,,false,,128,267,16,2010-11-11T10:23:54Z
+RosaWagner,Rosalie Wagner,,Berlin,mail@rosaliewagner.com,false,French Berlin based Type designer / Font Engineer. ,2,267,32,2015-05-03T16:07:30Z
+rivo,rivo,,"Berlin, Germany",,true,,13,267,0,2010-11-14T10:24:32Z
+lucaong,Luca Ongaro,MAGALOOP GMBH,"Berlin, Germany",,false,Loves crafting software products. Science enthusiast. CTO and Co-Founder at Magaloop GmbH.,64,267,26,2010-03-18T16:24:15Z
+dpreussler,Danny Preussler,SOUNDCLOUD,"Berlin, Germany",,false,"Google Developer Expert, Conference Nomad, Goth, Techno, @soundcloud Previously @Viacom @groupon @eBay ♡ TDD ♡ Clean Code",41,266,1,2012-09-26T07:29:16Z
+fabsx00,Fabian Yamaguchi,SHIFTLEFT INC,"Berlin, Germany",mail@fabianyamaguchi.com,false,,21,265,27,2012-01-25T13:42:19Z
+sotte,Stefan Otte,,"Berlin, Germany",stefan.otte@gmail.com,true,"ML, DL, CV, RL, PyTorch",105,265,47,2009-04-29T12:06:18Z
+janmonschke,Jan Monschke,ELASTIC,Berlin,,false,,100,264,27,2009-03-30T11:50:06Z
+candostdagdeviren,Candost,SUMUP,"Berlin, Germany",,false,Engineer Manager | Writer,28,263,28,2012-07-13T20:45:28Z
+spacecowb0y,[object Object],,"Berlin, Germany",,true,Human after all.,96,263,2446,2008-10-15T20:04:46Z
+MKRLancer,M.K~R lancer,,Berlin of Germany,,false,Full-Stack | Mobile | Blockchain & 9 yrs,15,262,336,2023-01-31T18:25:53Z
+kenshinji,Fred Wang,,"Berlin, Germany",gundam0083ster@gmail.com,true,on the way of being a polyglot / fullstack hacker 💪 ,141,262,610,2012-02-03T02:11:11Z
+lstoll,Lincoln Stoll,,"Berlin, DE",me@lds.li,false,,228,262,6,2008-02-23T19:34:57Z
+denisdefreyne,Denis Defreyne,,"Berlin, Germany",hello@denisdefreyne.com,true,Third nicest person in my neighbourhood,128,262,132,2008-04-10T20:22:47Z
+jmattheis,Jannis Mattheis,GOTIFY @SCREEGO @TRAGGO,"Berlin, Germany",hello@jmattheis.de,true,Self-taught programmer with great interest in code quality.,21,261,10,2015-09-29T18:57:10Z
+cmichi,Michael Müller,,"Germany, Berlin",,false,Techno-creative enthusiast.,56,261,79,2010-04-11T13:09:44Z
+Sly777,Ilker Guller,,"Berlin, Germany",,true,"Gamer || Metal Drummer || Full JS Dev || Berlin X Istanbul || Author of RAN, Hayde || 💕 Open Source",77,261,54,2011-03-28T11:46:22Z
+OskarStark,Oskar Stark,SENSIOLABS GERMANY,Berlin,oskarstark@googlemail.com,false,,303,260,65,2011-08-22T08:04:41Z
+esoxjem,Arun Sasidharan,SHARETHEMEAL,Berlin,,false,,25,259,25,2014-06-09T10:09:06Z
+saschanaz,Kagami Sascha Rosylight,MOZILLA,"Berlin, Germany",saschanaz@outlook.com,false,Some web things,392,257,25,2013-01-27T11:50:16Z
+clovisdasilvaneto,Clóvis Neto,AUDIBENE,Berlin | Germany,clovisdasilvaneto@gmail.com,false,"Front End Engineer, FEMUG-PE founder, creator of the All Animation CSS3 and NevinhaJs",157,256,35,2013-05-29T03:14:59Z
+montogeek,Fernando Montoya,,"Berlin, Germany",montogeek@gmail.com,true,Also words,274,256,65,2011-08-24T20:08:07Z
+Letty,Letty,,Berlin,,true,,20,256,38,2010-11-03T11:50:19Z
+autophagy,Mika Naylor,CONFLUENTINC,Berlin,mail@autophagy.io,true,"a temple of wet earth and rough stones, erected in haste",72,255,23,2015-06-18T22:35:10Z
+marcobiedermann,Marco Biedermann,MOBIMEO,"Berlin, Germany",,true,"Senior Full-Stack Software Engineer working primarily with TypeScript, Node.js & React",58,255,71,2013-08-16T13:42:53Z
+efemoney,Efeturi Money,CAREEM,"Berlin, Germany",efeturi.money@gmail.com,true,Android developer and Design enthusiast.,23,254,73,2014-08-13T04:37:02Z
+niderhoff,Nicolas Iderhoff,T-SYSTEMS,Berlin,nicolasiderhoff@googlemail.com,true,Data Scientist,24,252,60,2013-11-20T14:11:18Z
+marinho,Mario Brandao,STUFF STUFF @ SAP,"Berlin, Germany",marinho@gmail.com,false,organic,129,252,10,2008-04-03T14:09:08Z
+kimar,Marcus Kida,BEAROLOGICS,"Berlin, Germany",marcus.kida@bearologics.com,true,Freelance Mobile App Developer and CEO @ Bearologics GmbH 👉 I'm solving problems through code. Want to build a PoC for your startup? Get in touch.,153,251,231,2009-09-13T17:23:19Z
+omergulen,Ömer,BABBEL,"Berlin, Germany",,true,swe @babbel ,97,251,395,2017-03-19T16:01:14Z
+progapandist,Andy Baranov,,"Berlin, Germany",andrey@hey.com,true,"Cloud, tooling, Ruby, Go, Rails, K8s, GKE, some front-end love. Common-sense deploys and clean code.",46,251,42,2015-05-19T13:29:32Z
+aarlt,Alexander Arlt,ARLT-LABS.COM,Berlin,,false,I'm a freelance software engineer from Berlin.,43,250,9,2013-07-14T22:02:05Z
+devonestes,Devon Estes,V7LABS,"Berlin, Germany",devon.c.estes@gmail.com,false,"@elixir-lang developer. Maintainer of Muzak, @bencheeorg & the Elixir track at @exercism.
+",74,250,4,2014-08-12T00:21:54Z
+manuelbieh,Manuel Bieh,WIREMORE @UNBOGIFY,Berlin,github@manuelbieh.de,true,Freelance JavaScript Developer from Berlin. You can hire me!,83,249,51,2010-04-08T13:40:20Z
+irh,Ian Hobson,,"Berlin, Germany",,false,,46,249,6,2011-07-12T12:18:43Z
+hartwork,Sebastian Pipping,,"Berlin, Europe",sebastian@pipping.org,true,"If you enjoy my Open Source work, please consider donating to the Free Software Foundation Europe (FSFE).",190,249,223,2012-03-26T17:34:21Z
+s-soroosh,Soroosh Sarabadani,SHOPIFY,Berlin,soroosh.sarabadani@gmail.com,true,Senior Staff Software Engineer @Shopify,123,248,19,2011-04-13T11:43:41Z
+lukasoppermann,Lukas Oppermann,GITHUB,"Berlin, Germany",hello@lukasoppermann.com,true,"Design at @github @primer.
+Loves coffee, 🐈 and technology.
+
+
+Crazy about design systems & design tokens.",78,248,2,2011-05-27T07:28:46Z
+joseliacosta,Joselia C,,Berlin,,false,I care about people and most of my motivation to code is find solutions for them. Because it is always about people.,70,248,46,2014-10-16T00:16:38Z
+szaimen,Simon L.,NEXTCLOUD GMBH,Berlin,szaimen@e.mail.de,false,,13,245,86,2018-08-21T22:38:15Z
+Rebaiahmed,Ahmed Rebai,ENTIMO AG,Berlin,ahmed.bouhmid94@gmail.com,true,"• Software Engineer 👨‍💻
+• Angular Berlin meetup Co-organizer🎃
+• Front-end Developer/Angular ❤
+
+",177,244,509,2015-06-25T18:24:58Z
+polarity,Robert Agthe,SCRIPTSHIT,Berlin,robert@scriptshit.de,true,i love php,49,243,10,2009-11-01T16:47:07Z
+fmeyer,Fernando Meyer,OKTA,Berlin,fm@pobox.com,false,,69,243,19,2008-04-08T05:24:27Z
+hanakamer,Hana Kamer,TRAVELPERK,Berlin,,true,,56,243,50,2015-01-10T21:33:58Z
+Kriesse,Kristina Schneider,COBOT,Berlin,kristina@cssconf.eu,false,"Co-founder at Cobot, organizer of @cssconf @upfrontug @CSSclasses.",45,242,25,2009-02-11T15:40:03Z
+geekdada,Roy Li,KLARNA,"Berlin, Germany",me@royli.dev,false,Engineer @klarna,78,242,127,2013-01-15T12:09:18Z
+mlegy,Ahmad Melegy,DOORDASH,"Berlin, Germany",,true,Software Engineer,55,241,177,2013-06-25T18:25:00Z
+mirshko,Jeff Reiner,,"Berlin, Germany",,false,Product Engineer,94,240,195,2014-07-09T17:46:14Z
+Dylan-DPC-zz,Dylan DPC,,Berlin,,true,Rustacean ,179,239,86,2015-05-09T12:22:58Z
+linki,Martin Linkhorst,ZALANDO,Berlin,,false,,120,239,128,2008-11-23T15:34:01Z
+danielpaulus,,,Berlin,,false,"I like to solve complicated problems and reverse engineer things :-D
+Join the iOS Discord https://discord.gg/Zr8J3bCdkv",38,238,0,2013-05-03T13:32:26Z
+keremciu,Kerem Sevencan,ZALANDO,Berlin,,false,,82,237,60,2012-03-31T15:48:59Z
+aep,Arvid E. Picciani,KRAUDCLOUD @DEVGUARDIO @ZETZIT,Berlin,aep@exys.org,true,internet connected devices hacker,219,237,56,2009-10-08T17:02:49Z
+stanislaw,Stanislav Pankevich,,"Berlin, Germany",s.pankevich@gmail.com,true,,70,237,9,2010-10-25T04:52:11Z
+msoos,Mate Soos,,"Berlin, Germany",soos.mate@gmail.com,false,"SAT&SMT solver, cryptography and security enthusiast",71,236,12,2012-01-16T20:22:36Z
+BenchR267,Benjamin Herzog,,"Berlin, Germany",mail@benchr.de,false, Dev Tools,22,235,102,2013-11-05T07:43:37Z
+chrippa,Christopher Rosell,,"Berlin, Germany",,true,,26,235,18,2008-08-28T21:33:00Z
+Goldziher,Na'aman Hirschfeld,PHILIPPS & BYRNE GMBH,Berlin,nhirschfeld@gmail.com,true,"- Co-founder @basemind-ai. 
+- Creator @litestar-org. 
+
+Fullstack engineer and open-source contributor.",21,235,101,2017-08-04T18:13:47Z
+bashofmann,Bastian Hofmann,QDRANT,Berlin,,false,Bringing @qdrant to enterprises,166,234,29,2010-04-13T13:39:37Z
+phazonoverload,Kevin Lewis,DIRECTUS,Berlin,kvn@lws.io,false,"Runs Developer Experience at @directus. Director, You Got This.",74,234,27,2012-02-22T15:01:20Z
+moiseshorta,Moisés Horta Valenzuela,MOISESHORTA.AUDIO,Berlin,,false,"❉ Sound artist, creative technologist and electronic musician working with generative A.I. 
+From México, based in Berlin. ",34,233,113,2018-12-18T15:26:04Z
+Mark2Mark,Mark Frömberg,HYPER-TYPE,"Berlin, Germany",hello@markfromberg.com,true,"Typeface designer and developer,
+½ of Hypertype, TypeMedia 2014",52,233,97,2013-10-31T16:07:02Z
+jenskutilek,Jens Kutilek,LUCASFONTS,Berlin,webmail@kutilek.de,false,,68,233,69,2013-01-04T13:58:37Z
+v-thakkar,Vaishali Thakkar,,Berlin,,true,Linux kernel/Virtualization(Xen) engineer. Interested in everything related to (Operating U Embedded U Distributed) ∩ Systems,60,232,31,2014-03-30T04:06:31Z
+343max,Max von Webel,,"Berlin, Germany",max@343max.de,false,,171,232,67,2008-11-11T20:12:04Z
+LukasReschke,Lukas Reschke,AUTHENTICK,Berlin,lukas@statuscode.ch,true,"My opinions are my own and unrelated to my employer. 
+
+This is my personal profile.",74,232,44,2011-06-27T14:52:26Z
+joaomilho,Yo Lulkin,PERSONIO.DE,"Berlin, Germany",,false,,43,232,33,2010-06-18T01:13:39Z
+akrennmair,Andreas Krennmair,,"Berlin, Germany",,false,,80,231,9,2008-12-20T09:03:56Z
+AbdullahBakir97,Abdullah Bakir ,MYSTRO,Berlin,abdullah.bakir.204@gmail.com,false,"Python Developer
+
+",59,231,709,2023-03-06T20:39:53Z
+kirel,Daniel Kirsch,IDALAB GMBH,Berlin,mail@danielkirs.ch,false,,63,231,11,2008-05-02T12:37:48Z
+mschneider,Maximilian Schneider,,"Berlin, Germany",mail@maximilianschneider.net,true,,99,230,159,2009-10-24T17:02:17Z
+oleiade,Théo Crevon,GRAFANA LABS,Berlin,,false,I whisper to computers.,77,229,199,2011-03-25T18:15:34Z
+robinpokorny,Robin Pokorny,PRODUCTBOARD,"Berlin, Germany",me@robinpokorny.com,false,A zealous software engineer,169,229,87,2009-03-29T12:37:37Z
+PavelLaptev,Pavel Laptev,GITBUTLERAPP,"Berlin, Deutschland",pawellaptew@gmail.com,false,"Digital designer, passionate about design, frontend, art, and architecture.
+I create, write, and contribute to the community.",84,229,82,2016-04-16T10:59:58Z
+froschi,Thorsten Fischer,,"Berlin, Germany",,false,,169,229,2,2009-11-20T13:44:54Z
+tmylk,Lev Konstantinovskiy,,"Berlin, Germany",,false,,43,228,17,2011-12-13T22:19:08Z
+EmaSuriano,Ema Suriano,REVOLUT,"Berlin, Germany",emanuel.suriano@gmail.com,true,Passionate Engineer driven by all the Javascript ecosystem. On my spare time I like to write and speak publicly,155,228,21,2013-01-27T20:05:30Z
+philippkuehn,Philipp Kühn,,"Berlin, Germany",hi@philippkuehn.com,true,former founder tiptap,11,228,1,2012-10-06T14:34:37Z
+LeonardoCardoso,Leonardo Cardoso,TRADEREPUBLIC,Berlin,,false, ,53,227,30,2012-05-24T18:08:14Z
+JeroenDeDauw,Jeroen De Dauw,PROFESSIONAL.WIKI,Berlin,jeroendedauw@gmail.com,true,"Professional Wiki Services:
+https://professional.wiki",294,227,29,2009-10-28T23:11:09Z
+zeenix,Zeeshan Ali Khan,JUCR GMBH,Berlin,zeenix@gmail.com,false,"Free Software dev, Ecomodernist, into flying & Rust, and love cats.",94,226,1,2008-03-03T16:48:06Z
+Musti4096,Mustafa AK,RELAYR,Berlin,,false,Jr. DevOps Engineer @relayr ,22,226,141,2019-07-27T12:26:59Z
+finnp,Finn Pauls,KARUGAMO AGENCY,Porto/Berlin,github@pauls.dev,true,,353,226,65,2011-06-10T09:10:36Z
+vecna,Claudio Agosti,AIFORENSICS @TRACKING-EXPOSED @HERMESCENTER @GLOBALEAKS,Lisbon / Berlin / Milan,vecna@globaleaks.org,false,"Privacy activist, digital rights developer, board member in @aiforensics and @hermescenter ",49,225,11,2009-05-28T14:08:36Z
+alfredfrancis,Alfred Francis,DELIVERYHERO,"Berlin, Germany",,true,,91,224,32,2012-03-29T07:04:17Z
+MichaelKohler,Michael Kohler,KLARNA,Berlin,me@michaelkohler.info,true,Lead Engineer @klarna | Mozilla volunteer | Mozilla Rep Alumni,253,223,28,2010-07-13T03:14:33Z
+helmuthdu,Helmuth Saatkamp,,"Berlin, Germany",helmuthdu@gmail.com,true,love programming and the simple things of life. ;),29,223,3,2011-03-18T13:07:13Z
+polykit,Polykit,,Berlin,github@polykit.rocks,false,"DIY synthesizer related schematics, PCBs and modules",38,223,44,2020-11-20T12:42:41Z
+harshil1712,Harshil Agrawal,CLOUDFLARE,Berlin,,false,"Experimenting with tech, and sharing my learnings",173,222,3,2016-05-01T13:21:36Z
+0mp,Mateusz Piotrowski,,"Berlin, Germany",0mp@FreeBSD.org,true,@FreeBSD & @OpenZFS,308,222,515,2014-06-24T17:52:23Z
+illume,René Dudfield,MICROSOFT,Berlin,renesd@gmail.com,false,"Hey hey! I'm René, and I make things (like pygame). Using tech like Python, C, JavaScript/TypeScript, React/React Native. I ❤️ data audio reactive video synths.",80,222,14,2008-05-07T03:20:42Z
+robinboehm,Robin Böhm,WORKSHOPS-DE,"Berlin , Germany",robin.boehm@workshops.de,true,,169,221,151,2011-05-31T10:27:43Z
+katiayn,Kátia Nakamura,,"Berlin, Germany",me@katia.dev,true,From 🇧🇷 Based in 🇩🇪 MSc Computer Science 🎓  Django Specialist | Backend Dev 👩🏽‍💻 DSF Board member ✨ Travel | Photography | Technology,55,220,83,2015-08-04T23:51:57Z
+kurasu,Claes Johanson,BITWIG,"Berlin, Germany",claes@bitwig.com,false,One of the founders of @bitwig and vember audio.,5,220,15,2014-06-12T14:17:30Z
+tunavargi,Tuna Vargi,DELIVERYHERO,Berlin,,false,,27,220,78,2010-12-08T13:38:28Z
+miconda,Daniel-Constantin Mierla,ASIPTO (ASIPTO.COM),"Berlin, Germany",,false,Co-Founder Kamailio SIP Server Project (@kamailio). Working for Asipto (@asipto). Open source and RTC advocate.,43,220,0,2010-01-18T18:21:22Z
+mrchrisadams,Chris Adams,PRODUCT SCIENCE,"Berlin, and occasionally London",chris@productscience.co.uk,false,"Environmentally focussed tech generalist. User research, product management and strategy, and yes, even code sometimes",239,219,175,2008-07-22T16:00:07Z
+mohsenoid,Mohsen Mirhoseini,FIREWORK,"Berlin, Germany",msn.mirhoseini@gmail.com,false,Senior Android Developer,105,219,28,2013-08-01T05:57:41Z
+tmspzz,Tommaso Piazza,WIREAPP,"Berlin, Germany",,true,Works on my machine,55,219,115,2010-02-04T15:09:49Z
+tanvir002700,Tanvir Hasan Anick,ZALANDO,"Berlin, Germany",,true,,53,218,14,2014-09-10T13:26:22Z
+cristianoliveira,Cristian Oliveira,SUMUP,"Berlin, Germany",public+github@cristianoliveira.com,false,"I've contributed to many important open-source projects. Nothing was merged tho. 
+
+Author of @ClubVim on Twitter.",94,218,240,2013-03-25T01:41:57Z
+HeyPouya,Pouya Heydari,SUMUP,"Berlin, Germany",pouyaheydary@gmail.com,true,👨‍💻 Android Engineer @sumup ,66,217,0,2015-08-09T15:08:27Z
+mymindishazel,ember / mint,FUNKINCREW,"Berlin, Germany",gh@dissociat.ing,false,"experienced software engineer, devops person (debian, k8s), renowned self-hoster",20,217,0,2017-06-11T18:56:30Z
+codeliner,Alexander Miertsch,PROOPHSOFTWARE,Potsdam/Berlin,,true,10+ years PHP and JavaScript developer,73,217,35,2013-07-31T19:15:17Z
+rockstaedt,Eric Rockstädt,,Berlin,,false,Enthusiastic about building digital tools that contribute to a greener future 🌱 ,12,217,436,2020-04-22T17:02:15Z
+rishimohan,Rishi Mohan,,Berlin,iamrishi.ms@gmail.com,false,Design and Code,35,217,44,2015-08-29T15:50:23Z
+myobie,Nathan,SHAREUP,"Berlin, Germany",me@nathanherald.com,false,Building new.space,168,217,48,2008-02-11T02:18:45Z
+chris-rock,Christoph Hartmann,MONDOO,"Berlin, Germany",chris@lollyrock.com,true,"Founder of Mondoo, Tech leader, Co-Creator of DevSec and InSpec.",179,217,22,2011-11-07T16:38:29Z
+khanzadimahdi,mahdikhanzadi,,Germany/Berlin,,true,just a simple programmer.,21,217,108,2013-12-31T08:25:23Z
+sunsided,Markus Mayer,MEDIAN-KLINIKEN,Berlin,,true,Try all the things! — Head of Engineering Digital Health at Median Kliniken,353,216,155,2010-11-24T17:45:13Z
+MedRedha,Med Redha Khelifi,WUUD-TEAM CO-FOUNDER/MOBILE EXPERT,"Berlin, Germany / Algiers, Algeria",redha@wuud-team.com,true,"Mobile alchemist: Turning caffeine into code 👨‍💻 Debugging by day, dreaming in JavaScript by night. Turning challenges into features, one commit at a time.",306,216,5,2019-04-20T20:10:06Z
+fabianfett,Fabian Fett,APPLE,"Berlin, Germany",fabianfett@apple.com,false,Swift on Server aficionado.,37,216,14,2014-02-25T09:33:57Z
+durannumit,Ümit Duran,CREDITORNOT,Berlin,durannumit@gmail.com,false,Flutter Developer,42,216,64,2015-07-24T13:29:58Z
+divyenduz,Divyendu Singh,,"Berlin, Germany",mail@divyendusingh.com,true,Learn and build. ,28,215,6,2011-04-22T20:14:18Z
+cornelius,Cornelius Schumacher,DB SYSTEL GMBH,"Berlin, Germany",schumacher@kde.org,true,,106,214,7,2008-09-09T12:42:20Z
+anna-carroll,Anna Carroll,,"Berlin, Germany",,false,,11,213,14,2015-02-17T20:55:28Z
+pierluigiferrari,Pierluigi Ferrari,,Berlin,pierluigi.ferrari@gmx.com,false,,20,213,0,2016-02-23T21:04:10Z
+Fluepke,Flüpke (Carl Fabian Lüpke),MOD0,"Berlin, Germany",☺@fluep.ke,false,IT Security Analyst | Former Network Engineer | AS208135 | Scuba Diver,55,213,11,2014-05-06T20:59:48Z
+adewes,Andreas Dewes,,"Berlin, Germany",,false,,51,213,98,2011-01-06T09:08:16Z
+Schaeff,Thibaut Schaeffer,ZOKRATES @ETHEREUM @PROJECTPROVENANCE,Berlin,thibaut@schaeff.fr,false,,53,212,11,2014-04-29T16:40:23Z
+luqmanoop,Luqman Olushi Opemipo,,"Berlin, Germany",olushilukmon03@gmail.com,false,Learn. Build. Repeat,120,212,209,2013-08-03T12:43:27Z
+BenjaminBossan,Benjamin Bossan,,Berlin,,false,,47,212,5,2013-12-20T10:07:50Z
+amn41,Alan Nichol,RASAHQ,Berlin,alan@rasa.com,false,co-founder & CTO at @RasaHQ ,30,211,16,2013-07-29T15:13:15Z
+adzialocha,adz,,Berlin,,false,,64,210,463,2012-06-06T09:54:29Z
+natalyapeixoto,Natalya Peixoto,ZALANDO,Berlin,,true,"Frontend Developer
+
+",77,210,50,2018-01-20T12:08:01Z
+znarf,François Hodierne,OPENCOLLECTIVE,"Berlin, Germany",francois@hodierne.net,true,French in Berlin. Engineering & CTO @opencollective,48,209,65,2008-02-25T09:47:59Z
+mikiobraun,Mikio L. Braun,"SENIOR PRINCIPAL APPLIED SCIENTIST, ZALANDO","Berlin, Germany",,false,Helping companies and people put Machine Learning into practice.,30,209,2,2009-05-06T09:10:54Z
+ogoffart,Olivier Goffart,SLINT-UI,Berlin,olivier.goffart@slint.dev,false,Woboq & Slint co-founder,15,208,3,2011-08-04T15:40:40Z
+vadorovsky,Michal Rostecki,,"Berlin, Germany",,false,,311,208,170,2017-12-19T14:53:14Z
+chootka,Sarah,COSMICBERLIN,"New York, NY + Berlin, DE",com@chootka.com,true,,48,208,120,2011-07-27T23:32:06Z
+mzaks,Maxim Zaks,,Berlin,maxim.zaks@gmail.com,false,,63,207,1,2010-07-28T15:42:35Z
+knutin,Knut Nesheim,,"Berlin, Germany",knutin@gmail.com,false,,74,206,18,2010-08-14T17:58:24Z
+batin,Batın Eryılmaz,TRENDYOL,Berlin / Germany,batineryilmaz@icloud.com,true,"Formerly:
+@LeoARApp
+@Kommunity
+@svhawks
+@mojilala",44,206,145,2017-12-27T23:29:07Z
+reactormonk,Simon Hafner,,Berlin,,true,,234,205,43,2009-01-25T19:32:13Z
+nulltea,timofey,RESEARCH ENGINEER @CHAINSAFE,Berlin,timofey.luin@gmail.com,true,,73,205,119,2016-11-06T14:59:23Z
+Shpota,Sasha Shpota,,Berlin,,true,"
+Builder
+
+👨‍💻: Kotlin, TypeScript, Node.js, Rust, Go
+
+
+",34,205,90,2013-10-08T18:33:42Z
+holgerd77,Holger Drewes,,Berlin,,false,,62,204,43,2011-07-21T21:15:14Z
+Dineshkarthik,DK,TESLA,"Berlin, Germany",,false,"Pythonista, Data Geek",42,202,16,2014-05-31T06:00:24Z
+zutrinken,,MOBILE.DE GMBH,"Berlin, Germany",,false," Ͱ͟҉͟҉͟҉͟҉͟҉͟҉Ͱ͟҉͟҉͟҉͟҉͟҉͟҉ه҈̿҈̿҈̿҈̿҈̿҈̿҈̿҈̿҈̿҈̿҈̿҈̿҈̿҈̿҈Ͱ͟҉͟҉͟҉͟҉͟҉͟҉Ͱ҉͞҉͟҉͞҉͟҉͞҉͟҉͞҉͟Ͱ҉̅҉̅҉̅҉̅҉̅Ͱ҈̟҈̟҈̟҈̟҈̟҈̟҈̟҈̟҈̟҈Ͱ҉̅҉̅҉̅҉̅҉̅Ͱ͟҉͟҉͟҉͟҉͟҉͟
+ف̶̶̷̵̡҈̧́͘͠҈͏͏̷̴̴",13,202,23,2011-07-01T12:57:31Z
+mustafaozhan,Mustafa Ozhan,WETTERCOM,"Berlin, Germany",mr.mustafa.ozhan@gmail.com,false,Mobile Development Teamlead,30,202,92,2017-07-08T12:58:39Z
+nmicht,Michelle Torres,,"Berlin, Germany",hi@michelletorres.dev,true,Engineering Leader • Teacher • Speaker • Free & Open Source advocate,100,202,19,2012-05-17T19:50:48Z
+carlosmn,Carlos Martín Nieto,GITHUB,Berlin,cmn@dwim.me,false,,92,202,6,2010-07-18T10:48:31Z
+roquebuarquejr,Roque Buarque Junior,SPOTIFY,Berlin - Germany,,false,,27,201,8,2015-03-23T12:05:36Z
+dmstern,Daniel Morgenstern,]INIT[ AG FÜR DIGITALE KOMMUNIKATION,Berlin,morgenstern.daniel@gmail.com,false, Passionate web developer from Berlin.,43,201,76,2013-08-13T07:29:46Z
+Robbepop,Robin Freyler,,Berlin,robin.freyler@gmail.com,false,"🦀Rustacean with C & C++ origins - Enthusiastic about WebAssembly, compiler technology, virtual machines & SAT solving.",135,201,148,2014-07-17T16:18:29Z
+soulshake,AJ Bowen,QUANTGENE,"Berlin, Germany",,true,Cloud Operations Engineer,187,201,152,2012-03-29T04:04:57Z
+trentmc,Trent McConaghy,HTTP://WWW.OCEANPROTOCOL.COM,"Berlin, Germany",,false,"Ocean Protocol. AI, data,  
+Web3. bci/acc 🌞👨‍🎤",8,200,0,2013-08-25T10:34:02Z
+FACorreiaa,Fernando Correia,,Berlin,,false,Software Developer,97,200,285,2014-12-05T02:09:13Z
+hendrikhofstadt,Hendrik Hofstadt,,Berlin,,false,,1,200,5,2012-02-03T15:24:55Z
+delgermurun,Delgermurun,,"Berlin, Germany",,false,Software engineer,23,200,304,2010-11-23T00:00:31Z
+pellegrino,Vitor Pellegrino,,"Berlin, Germany",pellegrino@linux.com,false,,89,200,111,2008-04-08T13:07:11Z
+mojosoeun,Sona/Soeun Lee,,"Berlin, Germany",mojosoeun@gmail.com,true,"Dream, Code, Create",26,200,37,2013-06-14T02:32:36Z
+cristim,Cristian Magherusan-Stanciu,LEANERCLOUD.COM,"Berlin, Germany",,false,AWS Optimization Specialist,90,200,176,2009-06-14T08:28:20Z
+torto,Guilherme Costa Berghauser,SHOP APOTHEKE,Berlin - Germany,,false,,73,200,33,2014-01-17T15:11:02Z
