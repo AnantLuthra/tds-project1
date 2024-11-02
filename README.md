@@ -7,7 +7,7 @@ This repository contains data about GitHub users in Berlin with over 200 followe
 1. `users.csv`: Contains information about 609 GitHub users in Berlin with over 200 followers
 2. `repositories.csv`: Contains information about 60853 public repositories from these users
 3. `data_scraping.py`: Python script to fetch user data from GitHub API
-
+4. `analysis.zip`: Contains the python files for the analysis.
 
 ## Data Collection
 
